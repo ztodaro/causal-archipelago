@@ -1,0 +1,33 @@
+You are assessing a research idea for a project ledger. Below is a
+claim packet: background, the idea as generated, and a facet
+decomposition. This is a CLOSED-BOOK judgment: do not use any tools,
+web search, file access, or code execution — judge only from your own
+knowledge. Question: is the idea's core MECHANISM novel, or does
+published work anticipate it? Reply in exactly this format:
+VERDICT: NOVEL | NOT-NOVEL
+CONFIDENCE: <0-100, that your verdict is correct>
+PRIOR-ART: <name or materially describe the closest published work, or NONE>
+REASONING: <max 150 words>
+BACKGROUND: Take as given (within the project) a fixed-home reporting
+bound in an expanding universe: a stationary archive at the origin,
+probes at speed β, a common deadline, and a processing delay define
+the comoving region from which reports can arrive in time.
+
+IDEA: Does a MOVING final archive, or splitting into several
+archives, beat staying home? Bounded result: the feasible reporting
+region for a final archive at z is a compact convex set D(z) with
+D(−z) = −D(z); a symmetrization argument (the difference body is
+contained in the stationary ball, then a volume inequality) proves
+that for uniform comoving target density no choice of final archive
+location — and no subluminal collector trajectory — yields more
+reporting volume than the stationary origin, at any probe speed. For
+two collectors moving oppositely at speed u, counting sites received
+by at least one gives a closed-form union fraction F(u), quantifying
+what splitting the archive buys when records need not be reunited.
+
+FACETS — purpose: optimal placement and motion of report-collecting
+archives under a deadline; mechanism: convexity and central symmetry
+of the feasible region plus a symmetrization volume inequality force
+the stationary optimum; domain: relativistic information logistics in
+an expanding universe; method: convex geometry, closed-form
+integration; data: none (mathematical).

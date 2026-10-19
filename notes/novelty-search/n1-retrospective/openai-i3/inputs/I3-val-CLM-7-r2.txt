@@ -1,0 +1,37 @@
+You are assessing a research idea for a project ledger. Below is a
+claim packet: background, the idea as generated, and a facet
+decomposition. This is a CLOSED-BOOK judgment: do not use any tools,
+web search, file access, or code execution — judge only from your own
+knowledge. Question: is the idea's core MECHANISM novel, or does
+published work anticipate it? Reply in exactly this format:
+VERDICT: NOVEL | NOT-NOVEL
+CONFIDENCE: <0-100, that your verdict is correct>
+PRIOR-ART: <name or materially describe the closest published work, or NONE>
+REASONING: <max 150 words>
+BACKGROUND: An analytical framework in the economics-of-strategy
+domain makes substantive claims about when AI substitution of human
+work succeeds or fails. The framework has an explicit operational
+codebook and a versioned corrections discipline, and has been applied
+to its own production process.
+
+IDEA: A named structural property — call it reflexive predictability:
+a framework exhibits it when the framework's SUBSTANTIVE theory
+directly predicts the conditions under which the framework itself can
+be recursively applied to test its own operational integrity, with the
+recursive application producing dated empirical evidence that feeds
+back through versioning. Five jointly necessary conditions: (R1) a
+substantive theoretical scope; (R2) an explicit operational
+specification; (R3) the theory predicts when procedures of the
+framework's own kind are feasible or fail; (R4) the apparatus can be
+recursively applied to the framework's own components; (R5) the
+recursive evidence is dated, recorded, and integrated back. The claim:
+this CONFIGURATION has not been previously identified or named — the
+relationship between theory and recursive applicability is derivable,
+not accidental, and no published framework combines all five elements.
+
+FACETS — purpose: identify and name a structural property of
+analytical frameworks; mechanism: substantive theory entailing the
+conditions of its own recursive testability, with evidence fed back
+through versioned discipline; domain: methodology and sociology of
+scientific frameworks; method: necessary-and-sufficient conditions
+plus a worked instance; data: the framework's own dated trial record.

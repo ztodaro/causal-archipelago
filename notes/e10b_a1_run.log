@@ -1,0 +1,141 @@
+GALAH clean stars 316016
+C4 replay gate: PASS 874 7197 0.1042073 0.158905755
+pairs with two valid clocks: 473 of 874
+A1: median per-pair [Fe/H] error width 0.085 stars missing e_fe_h: 0
+pairs with posterior mass>0.5 in decision bins: [242, 231] | four-bin: [115, 22, 49, 100]
+oracle1: {'observed_median': 0.1138, 'simulated_median': 0.1107, 'f_const': 0.2917, 'sigma_int_const': 0.0, 'pass_': True}
+oracle2: {'n_realisations': 200, 'coverage_exp': [0.99, 0.995], 'coverage_const': [0.995, 1.0], 'median_width_exp': [0.524, 0.232], 'median_width_const': [0.539, 0.504], 'false_positive_rate': 0.005, 'power_exp': 0.35, 'pass_': True}
+2-bin fit: [0.57576112 0.01756074 0.        ] 408.7422811138308 | const: [0.29168754 0.        ] 400.14176330803133 | param: [0.61368441 5.54917988 0.        ] 408.5355025024016 | 4-bin: [0.54955978 0.55322675 0.09170392 0.         0.        ] 407.9856167560903
+{
+ "script_sha256": "9aa642a26d001fdd08fc74f31ef89d6356d701a52fbb34970bb5de4925fed876",
+ "spec": "E10B-SPEC.md + E10B-AMENDMENT-1.md",
+ "n_pairs_C4": 874,
+ "n_pairs_with_clocks": 473,
+ "decision_bins": [
+  [
+   0,
+   4.5
+  ],
+  [
+   4.5,
+   14
+  ]
+ ],
+ "descriptive_bins": [
+  [
+   0,
+   2
+  ],
+  [
+   2,
+   4.5
+  ],
+  [
+   4.5,
+   8
+  ],
+  [
+   8,
+   14
+  ]
+ ],
+ "pairs_mass_gt_half_decision": [
+  242,
+  231
+ ],
+ "pairs_mass_gt_half_descriptive": [
+  115,
+  22,
+  49,
+  100
+ ],
+ "median_age": 4.375,
+ "median_age_err": 2.727,
+ "oracle1": {
+  "observed_median": 0.1138,
+  "simulated_median": 0.1107,
+  "f_const": 0.2917,
+  "sigma_int_const": 0.0,
+  "pass_": true
+ },
+ "oracle2": {
+  "n_realisations": 200,
+  "coverage_exp": [
+   0.99,
+   0.995
+  ],
+  "coverage_const": [
+   0.995,
+   1.0
+  ],
+  "median_width_exp": [
+   0.524,
+   0.232
+  ],
+  "median_width_const": [
+   0.539,
+   0.504
+  ],
+  "false_positive_rate": 0.005,
+  "power_exp": 0.35,
+  "pass_": true
+ },
+ "status": "ok",
+ "f_young": 0.5758,
+ "f_young_CI": [
+  0.2936,
+  0.8405
+ ],
+ "f_old": 0.0176,
+ "f_old_CI": [
+  0.0,
+  0.316
+ ],
+ "sigma_int": 0.0,
+ "sigma_int_CI": [
+  0.0,
+  0.05
+ ],
+ "median_pair_meas_width": 0.085,
+ "ratio_old_young": 0.0305,
+ "ratio_CI": [
+  0.0,
+  0.726
+ ],
+ "verdict": "DECAY DETECTED",
+ "loglike_2bin": 408.742,
+ "loglike_const": 400.142,
+ "loglike_param": 408.536,
+ "param_f0": 0.6137,
+ "param_tau_gyr": 5.549,
+ "param_tau_CI": [
+  2.316,
+  26.358
+ ],
+ "f_4bin": [
+  0.5496,
+  0.5532,
+  0.0917,
+  0.0
+ ],
+ "f_4bin_CI": [
+  [
+   0.1289,
+   0.9794
+  ],
+  [
+   0.0,
+   1.0
+  ],
+  [
+   0.0,
+   0.7144
+  ],
+  [
+   0.0,
+   0.476
+  ]
+ ],
+ "median_d_treat": 0.1138
+}
+DONE

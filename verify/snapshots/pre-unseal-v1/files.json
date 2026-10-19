@@ -1,0 +1,42 @@
+{
+ "commit": "7e75a61418eb366187d74a424753d8ccd0685017",
+ "trees": {
+  ".": "013c1259c7d9d95fd5089071972b3d4b9045d5c9",
+  "e1-chemical-genealogy": "dacebc0d2a46f33c3a24e3038178b8b442f641f3",
+  "e1-chemical-genealogy/data": "ed86d7500e6bea66c43d6ebca0dc47e3c5b8400d",
+  "e2-wide-binaries": "f5ad4ddf8e6e5731347b8cdbc7e414b1e7ce4c1c",
+  "e2-wide-binaries/data": "1a8330dca69778a3895d9f8a195b39d65bf6339b"
+ },
+ "files": {
+  "e1-chemical-genealogy/E1-RESULTS.md": "b07a4e5df29beabca06e9f75897ab2d0ac077cb4",
+  "e1-chemical-genealogy/E1-SPEC.md": "b11d1c30f62f364b950f23c3a883546bbceca201",
+  "e1-chemical-genealogy/E1B-SPEC.md": "b7107b3ce4e739177cd983db2b89824cc9472138",
+  "e1-chemical-genealogy/data/APOGEE-PROVENANCE.md": "f563b18ea756486475fae81b431fae7e751f1d8b",
+  "e1-chemical-genealogy/data/E1B-GALAH-PROVENANCE.md": "c32aef7a77d04ec6208169d57381c2967a2f0eca",
+  "e1-chemical-genealogy/data/GALAH-PROVENANCE.md": "4f05cf1805f2f18367b0af3c5a39f97a5b8cade8",
+  "e1-chemical-genealogy/data/apogee_matches.csv": "f25cbeea94e309fc7200a6e4d1c9ad441b240b50",
+  "e1-chemical-genealogy/data/apogee_queries.sql": "bd4c92a7b56e3b7caceabb00baa9f5239134c69e",
+  "e1-chemical-genealogy/data/e1b_galah.csv": "71ac67a2334df43c7437044262e40aec3aa2dcb7",
+  "e1-chemical-genealogy/data/galah_matches.csv": "00d5308934567bb1a4e8def5b1882984be003e2b",
+  "e1-chemical-genealogy/data/galah_query.adql": "6e53ae5f7ec521d9e4db0a47b80b4430f06eb2c9",
+  "e1-chemical-genealogy/e1_results.json": "acafae50e77bd5346cddab3aa8895c955b4b007b",
+  "e1-chemical-genealogy/e1_run.py": "31434acfacd816aa5f0e0458288b159bd267c07e",
+  "e1-chemical-genealogy/retrieve_e1.py": "3e10ccc34f67abff780654ca3c7be303b581b2ee",
+  "e1-chemical-genealogy/retrieve_e1b.py": "b9a157e71f838b98402d28190ce6e4128049db6b",
+  "e2-wide-binaries/E2-CALIBRATION-REPORT.md": "dc12dc1fec0249bb35fb8915830560456699d150",
+  "e2-wide-binaries/E2-PREUNSEAL-REPORT.md": "5c485e45b0d2c0e15ad6f53001ced5d453b74585",
+  "e2-wide-binaries/E2-SPEC.md": "3ecb7aee7bb1eff7af3530583397ff9a5be4ec6a",
+  "e2-wide-binaries/data/elbadry_PROVENANCE.md": "5c3b4b69be4dc67e163ce8ffa0f17b531fa27d43",
+  "e2-wide-binaries/data/elbadry_ReadMe.txt": "ea22e4f8991a8061fc4876f38e74fd0285ca23b0",
+  "e2-wide-binaries/data/elbadry_nearby.csv": "6287819ef3ef5653d7af226679b4d4b6420af8e3",
+  "e2-wide-binaries/data/mamajek_PROVENANCE.md": "2c5a4f42a49dddb922ef73ce549918f8f9aafef4",
+  "e2-wide-binaries/data/mamajek_dwarf_table.txt": "b208cbaef18ba7438446cd160dfe0e03e83b28c1",
+  "e2-wide-binaries/e2_cal2.py": "31c05b8f6f8c8a05348573901ba12e673ad9bc4e",
+  "e2-wide-binaries/e2_cal_pairs.npz": "5f8a5805ced473e239156912643597d60db807eb",
+  "e2-wide-binaries/e2_cal_perp.json": "db95eae9a8ffe810135327aea580188cfd804d77",
+  "e2-wide-binaries/e2_calibration.json": "025facff5b296110c941f7276a05e4934619be56",
+  "e2-wide-binaries/e2_calibration.py": "2089fae23b44d3f2d79e352e0e1ba923340c5f27",
+  "e2-wide-binaries/e2_preunseal.json": "6ba8cb1f104cdd10690a5dc38edd459bdce627f4",
+  "e2-wide-binaries/e2_preunseal.py": "851bc3985e92a31bce941f7bb225eab4173a70ae"
+ }
+}

@@ -1,0 +1,237 @@
+{
+ "script_sha256": "b276f7185589fd3cfc39567afba388e05c7ca7a1a21c958db2e9c7f3326213cd",
+ "spec": "E1C-SPEC.md",
+ "surveys": {
+  "GALAH": {
+   "C0": {
+    "treat": 1288,
+    "controls": 12877,
+    "clusters": 1058,
+    "med_treat": 0.1001,
+    "med_control": 0.2012,
+    "med_diff": -0.1011,
+    "boot_CI": [
+     -0.1203,
+     -0.0825
+    ],
+    "p": 2.51e-85,
+    "gate": "PASS"
+   },
+   "tolerances": {
+    "tau_Lz": 16.831,
+    "tau_Jz": 0.3867,
+    "tau_Jr": 1.8404,
+    "treat_median_dLz": 6.483,
+    "treat_median_dJz": 0.1103,
+    "treat_median_dJr": 0.5783
+   },
+   "C1": {
+    "treat": 1277,
+    "controls": 12707,
+    "clusters": 1047,
+    "med_treat": 0.1003,
+    "med_control": 0.2043,
+    "med_diff": -0.104,
+    "boot_CI": [
+     -0.1227,
+     -0.0835
+    ],
+    "p": 1.13e-89,
+    "status": "ok",
+    "S_min_pc": 300.0
+   },
+   "C2": {
+    "treat": 1268,
+    "controls": 12604,
+    "clusters": 1038,
+    "med_treat": 0.0998,
+    "med_control": 0.1877,
+    "med_diff": -0.0879,
+    "boot_CI": [
+     -0.1062,
+     -0.0688
+    ],
+    "p": 5.2e-68,
+    "status": "ok",
+    "S_min_pc": 300.0
+   },
+   "C3": {
+    "treat": 1201,
+    "controls": 11596,
+    "clusters": 998,
+    "med_treat": 0.1014,
+    "med_control": 0.1745,
+    "med_diff": -0.0731,
+    "boot_CI": [
+     -0.0935,
+     -0.0527
+    ],
+    "p": 8.15e-50,
+    "status": "ok",
+    "S_min_pc": 300.0
+   },
+   "C4": {
+    "treat": 874,
+    "controls": 7197,
+    "clusters": 716,
+    "med_treat": 0.1042,
+    "med_control": 0.1589,
+    "med_diff": -0.0547,
+    "boot_CI": [
+     -0.0834,
+     -0.0318
+    ],
+    "p": 9.05e-24,
+    "status": "ok",
+    "S_min_pc": 300.0
+   },
+   "C4_S100": {
+    "treat": 1078,
+    "controls": 9949,
+    "clusters": 908,
+    "med_treat": 0.1049,
+    "med_control": 0.1539,
+    "med_diff": -0.049,
+    "boot_CI": [
+     -0.0714,
+     -0.029
+    ],
+    "p": 3.23e-23,
+    "status": "ok",
+    "S_min_pc": 100.0
+   },
+   "C4_S1000": {
+    "treat": 72,
+    "controls": 227,
+    "clusters": 10,
+    "med_treat": 0.0458,
+    "med_control": 0.2027,
+    "med_diff": -0.1569,
+    "boot_CI": [
+     -0.3006,
+     -0.0392
+    ],
+    "p": 2.7e-17,
+    "status": "UNDERPOWERED",
+    "S_min_pc": 1000.0
+   },
+   "verdict": "SHRINKS"
+  },
+  "APOGEE": {
+   "C0": {
+    "treat": 4461,
+    "controls": 42952,
+    "clusters": 1605,
+    "med_treat": 0.0844,
+    "med_control": 0.1878,
+    "med_diff": -0.1034,
+    "boot_CI": [
+     -0.1186,
+     -0.0883
+    ],
+    "p": 0.0,
+    "gate": "PASS"
+   },
+   "tolerances": {
+    "tau_Lz": 16.818,
+    "tau_Jz": 0.4097,
+    "tau_Jr": 1.5138,
+    "treat_median_dLz": 6.859,
+    "treat_median_dJz": 0.0927,
+    "treat_median_dJr": 0.4274
+   },
+   "C1": {
+    "treat": 4245,
+    "controls": 40620,
+    "clusters": 1472,
+    "med_treat": 0.0827,
+    "med_control": 0.1986,
+    "med_diff": -0.1158,
+    "boot_CI": [
+     -0.1293,
+     -0.102
+    ],
+    "p": 0.0,
+    "status": "ok",
+    "S_min_pc": 300.0
+   },
+   "C2": {
+    "treat": 3633,
+    "controls": 35323,
+    "clusters": 1421,
+    "med_treat": 0.0727,
+    "med_control": 0.1711,
+    "med_diff": -0.0984,
+    "boot_CI": [
+     -0.1127,
+     -0.0843
+    ],
+    "p": 0.0,
+    "status": "ok",
+    "S_min_pc": 300.0
+   },
+   "C3": {
+    "treat": 2268,
+    "controls": 18136,
+    "clusters": 1286,
+    "med_treat": 0.0838,
+    "med_control": 0.1513,
+    "med_diff": -0.0674,
+    "boot_CI": [
+     -0.0818,
+     -0.0537
+    ],
+    "p": 4.37e-121,
+    "status": "ok",
+    "S_min_pc": 300.0
+   },
+   "C4": {
+    "treat": 919,
+    "controls": 6150,
+    "clusters": 776,
+    "med_treat": 0.1047,
+    "med_control": 0.1373,
+    "med_diff": -0.0326,
+    "boot_CI": [
+     -0.0493,
+     -0.0168
+    ],
+    "p": 4.8e-13,
+    "status": "ok",
+    "S_min_pc": 300.0
+   },
+   "C4_S100": {
+    "treat": 2314,
+    "controls": 20551,
+    "clusters": 1358,
+    "med_treat": 0.1168,
+    "med_control": 0.1388,
+    "med_diff": -0.022,
+    "boot_CI": [
+     -0.0352,
+     -0.0093
+    ],
+    "p": 2.41e-13,
+    "status": "ok",
+    "S_min_pc": 100.0
+   },
+   "C4_S1000": {
+    "treat": 5,
+    "controls": 6,
+    "clusters": 2,
+    "med_treat": 0.0565,
+    "med_control": 0.2431,
+    "med_diff": -0.1865,
+    "boot_CI": [
+     -0.2841,
+     -0.0551
+    ],
+    "p": 0.00216,
+    "status": "UNDERPOWERED",
+    "S_min_pc": 1000.0
+   },
+   "verdict": "SHRINKS"
+  }
+ },
+ "project_verdict": "SHRINKS"
+}

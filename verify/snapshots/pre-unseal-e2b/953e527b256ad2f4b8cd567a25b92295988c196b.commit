@@ -1,0 +1,9 @@
+tree 7d676964b87473f85981fa8b6e778a3bc4e0016c
+parent e9f60cdc840be0c8fb54bde6a82812d0d99cc22a
+author Zach Todaro <ztodaro@gmail.com> 1788083317 +0000
+committer Zach Todaro <ztodaro@gmail.com> 1788083317 +0000
+
+E2b calibration frozen: noise-adjusted anchors (Newton 1.115 / MOND 1.299), triple bias +0.006, unseal code committed pre-anchoring
+
+Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01Bs3JrqLxwVuqZ2QA9XVnqP

@@ -1,0 +1,22 @@
+{
+ "counts": [
+  {
+   "bin": "0.0-2.0",
+   "pairs_aged": 11,
+   "clusters": 10
+  },
+  {
+   "bin": "2.0-4.5",
+   "pairs_aged": 33,
+   "clusters": 23
+  },
+  {
+   "bin": "4.5-8.0",
+   "pairs_aged": 25,
+   "clusters": 25
+  }
+ ],
+ "both": 235,
+ "agree": 93,
+ "treat": 1355
+}

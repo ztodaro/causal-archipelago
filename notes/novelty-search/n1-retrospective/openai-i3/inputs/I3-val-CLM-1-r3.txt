@@ -1,0 +1,30 @@
+You are assessing a research idea for a project ledger. Below is a
+claim packet: background, the idea as generated, and a facet
+decomposition. This is a CLOSED-BOOK judgment: do not use any tools,
+web search, file access, or code execution — judge only from your own
+knowledge. Question: is the idea's core MECHANISM novel, or does
+published work anticipate it? Reply in exactly this format:
+VERDICT: NOVEL | NOT-NOVEL
+CONFIDENCE: <0-100, that your verdict is correct>
+PRIOR-ART: <name or materially describe the closest published work, or NONE>
+REASONING: <max 150 words>
+BACKGROUND: Gaia astrometry identifies wide comoving stellar pairs —
+separations of roughly 0.01 to 1 parsec, velocity differences under a
+few km/s — many of which are believed to be remnants of dissolved
+birth clusters rather than chance alignments or bound binaries.
+
+IDEA: If comoving pairs are truly birth siblings, they condensed from
+the same chemically near-homogeneous cloud, so their photospheric
+abundances should be measurably more similar than those of matched
+random field pairs. Cross-matching comoving-pair catalogs against
+large spectroscopic survey abundances yields a scalable test: compare
+the |Δ[Fe/H]| distribution of comoving pairs against carefully matched
+control pairs. Chemistry then serves as an independent certification
+channel for kinematically selected sibling candidates at survey scale.
+
+FACETS — purpose: certify dissolved-cluster sibling pairs; mechanism:
+birth-cloud chemical homogeneity implies excess abundance similarity
+in comoving pairs relative to matched controls; domain: Galactic
+archaeology; method: pair selection, control matching, paired
+abundance-difference statistics; data: Gaia astrometry crossed with
+stellar spectroscopic survey abundances.

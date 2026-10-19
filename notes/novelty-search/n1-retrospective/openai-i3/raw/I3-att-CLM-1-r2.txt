@@ -1,0 +1,4 @@
+VERDICT: NOT-NOVEL
+CONFIDENCE: 98
+PRIOR-ART: Kamdar et al. (2019), “Stars That Move Together Were Born Together,” using Gaia kinematics and LAMOST metallicities.
+REASONING: This work directly tests whether kinematically associated field stars share a birth origin by comparing their metallicity differences with those of random comparison pairs. Its central inference is precisely that birth-cloud chemical homogeneity should produce excess chemical similarity among comoving stars, including unbound remnants of disrupted birth associations. Cross-matching astrometric selections with large spectroscopic surveys and evaluating paired metallicity differences supplies the independent chemical evidence. Restricting separations to approximately 0.01–1 pc, adjusting velocity cuts, or improving control matching could refine that analysis but would not establish novelty of the proposed mechanism.

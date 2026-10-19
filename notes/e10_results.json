@@ -1,0 +1,49 @@
+{
+ "spec": "E10-SPEC.md",
+ "bins": [
+  {
+   "bin": "0.0-2.0",
+   "matched": 11,
+   "controls": 110,
+   "clusters": 10,
+   "status": "underpowered",
+   "med_treat": 0.0677,
+   "med_ctrl": 0.2124,
+   "excess_descriptive": -0.1447,
+   "sec_treat_dt_med": 1.92,
+   "sec_ctrl_dt_med": 5.56
+  },
+  {
+   "bin": "2.0-4.5",
+   "matched": 33,
+   "controls": 330,
+   "clusters": 23,
+   "med_treat": 0.0739,
+   "med_ctrl": 0.2404,
+   "excess": -0.1665,
+   "CI": [
+    -0.2378,
+    -0.0549
+   ],
+   "excludes_zero": true,
+   "sec_treat_dt_med": 1.2,
+   "sec_ctrl_dt_med": 3.65
+  },
+  {
+   "bin": "4.5-8.0",
+   "matched": 25,
+   "controls": 250,
+   "clusters": 25,
+   "med_treat": 0.1017,
+   "med_ctrl": 0.2766,
+   "excess": -0.1749,
+   "CI": [
+    -0.2587,
+    0.0073
+   ],
+   "excludes_zero": false,
+   "sec_treat_dt_med": 1.63,
+   "sec_ctrl_dt_med": 4.83
+  }
+ ]
+}

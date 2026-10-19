@@ -1,0 +1,16 @@
+APOGEE clean stars 198007
+C4 replay gate: PASS 919 6150 0.104662 0.1372845
+E10c: stars in calibration domain with clean C,N: 27338
+pairs with two valid clocks: 2 of 919
+E10c: member ages outside the 8.62-9.82 log-age validity range (kept, flagged): 2
+A1: median per-pair [Fe/H] error width 0.0125 stars missing e_fe_h: 0
+pairs with posterior mass>0.5 in decision bins: [1, 1] | four-bin: [0, 1, 1, 0]
+oracle1: {'observed_median': 0.2385, 'simulated_median': 0.1335, 'f_const': 0.497, 'sigma_int_const': 0.05, 'pass_': False}
+Traceback (most recent call last):
+  File "/root/ca/fresh/e10c/e10c_run.py", line 261, in <module>
+    cov_exp,w_exp,v_exp=inject_test(lambda t:0.6*np.exp(-t/1.5),NREAL,np.random.default_rng(11))
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/ca/fresh/e10c/e10c_run.py", line 254, in inject_test
+    lo,hi=np.percentile(bs[:,:2],[2.5,97.5],axis=0)
+                        ~~^^^^^^
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed

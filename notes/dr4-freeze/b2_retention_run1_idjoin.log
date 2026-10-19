@@ -1,0 +1,8 @@
+GOLD ids: 221
+with astrometry: 221
+inside window at DR3 point values: 201 of 221
+DR4_pm1x {'mean_retention': 0.9033, 'expected_survivors': 199.63, 'interval_95': [198, 201], 'n_below_0p5': 20, 'n_below_0p9': 24, 'marginal_ids': ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']}
+DR4_pm2x {'mean_retention': 0.903, 'expected_survivors': 199.57, 'interval_95': [198, 201], 'n_below_0p5': 20, 'n_below_0p9': 24, 'marginal_ids': ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']}
+DR3_remeasure_pm1x {'mean_retention': 0.902, 'expected_survivors': 199.35, 'interval_95': [197, 201], 'n_below_0p5': 20, 'n_below_0p9': 25, 'marginal_ids': ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']}
+DONE
+B2 exit 0

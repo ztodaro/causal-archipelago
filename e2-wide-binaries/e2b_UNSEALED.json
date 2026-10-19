@@ -1,0 +1,125 @@
+{
+ "spec": "E2B-SPEC.md@d0cf4a7",
+ "anchors": {
+  "primary": {
+   "newton": [
+    1.115,
+    1.07,
+    1.16
+   ],
+   "mond": [
+    1.299,
+    1.238,
+    1.356
+   ]
+  },
+  "trim": {
+   "newton": [
+    1.009,
+    0.942,
+    1.075
+   ],
+   "mond": [
+    1.198,
+    1.129,
+    1.274
+   ]
+  },
+  "flicker": {
+   "newton": [
+    0.682,
+    0.639,
+    0.726
+   ],
+   "mond": [
+    0.788,
+    0.737,
+    0.841
+   ]
+  }
+ },
+ "PRIMARY": {
+  "n_low": 1377,
+  "n_high": 6933,
+  "median_low": 0.6424,
+  "median_high": 0.5821,
+  "RATIO": 1.1036,
+  "CI95": [
+   1.0628,
+   1.1644
+  ],
+  "vs_anchors": "newton: not excluded; mond: EXCLUDED",
+  "reduced_power_flag": false
+ },
+ "SECONDARY_flicker": {
+  "n": 479,
+  "MEDIAN": 0.6987,
+  "CI95": [
+   0.6403,
+   0.7325
+  ],
+  "vs_anchors": "newton: not excluded; mond: EXCLUDED"
+ },
+ "variant_R01": {
+  "n_low": 1395,
+  "n_high": 6933,
+  "median_low": 0.6421,
+  "median_high": 0.5821,
+  "RATIO": 1.103,
+  "CI95": [
+   1.0619,
+   1.1631
+  ],
+  "vs_anchors": "newton: not excluded; mond: EXCLUDED"
+ },
+ "variant_trim": {
+  "n_low": 506,
+  "n_high": 5776,
+  "median_low": 0.5893,
+  "median_high": 0.5691,
+  "RATIO": 1.0354,
+  "CI95": [
+   0.9683,
+   1.1081
+  ],
+  "vs_anchors": "newton: not excluded; mond: EXCLUDED"
+ },
+ "profile": [
+  {
+   "bin_lo_a0": 0.1,
+   "bin_hi_a0": 0.3,
+   "n": 479,
+   "med": 0.6987
+  },
+  {
+   "bin_lo_a0": 0.3,
+   "bin_hi_a0": 1.0,
+   "n": 898,
+   "med": 0.6277
+  },
+  {
+   "bin_lo_a0": 1.0,
+   "bin_hi_a0": 3.0,
+   "n": 1294,
+   "med": 0.6348
+  },
+  {
+   "bin_lo_a0": 3.0,
+   "bin_hi_a0": 10.0,
+   "n": 2163,
+   "med": 0.5648
+  },
+  {
+   "bin_lo_a0": 10.0,
+   "bin_hi_a0": 30.0,
+   "n": 2846,
+   "med": 0.6002
+  },
+  {
+   "bin_lo_a0": 30.0,
+   "bin_hi_a0": 100.0,
+   "n": 4087,
+   "med": 0.5694
+  }
+ ]
+}

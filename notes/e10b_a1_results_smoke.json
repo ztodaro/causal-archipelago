@@ -1,0 +1,84 @@
+{
+ "script_sha256": "9aa642a26d001fdd08fc74f31ef89d6356d701a52fbb34970bb5de4925fed876",
+ "spec": "E10B-SPEC.md + E10B-AMENDMENT-1.md",
+ "n_pairs_C4": 874,
+ "n_pairs_with_clocks": 473,
+ "tolerances": {
+  "tau_Lz": 16.831,
+  "tau_Jz": 0.3867,
+  "tau_Jr": 1.8404,
+  "treat_median_dLz": 6.483,
+  "treat_median_dJz": 0.1103,
+  "treat_median_dJr": 0.5783
+ },
+ "decision_bins": [
+  [
+   0,
+   4.5
+  ],
+  [
+   4.5,
+   14
+  ]
+ ],
+ "descriptive_bins": [
+  [
+   0,
+   2
+  ],
+  [
+   2,
+   4.5
+  ],
+  [
+   4.5,
+   8
+  ],
+  [
+   8,
+   14
+  ]
+ ],
+ "pairs_mass_gt_half_decision": [
+  242,
+  231
+ ],
+ "pairs_mass_gt_half_descriptive": [
+  115,
+  22,
+  49,
+  100
+ ],
+ "median_age": 4.375,
+ "median_age_err": 2.727,
+ "oracle1": {
+  "observed_median": 0.0907,
+  "simulated_median": 0.0988,
+  "f_const": 0.3826,
+  "sigma_int_const": 0.0,
+  "pass_": true
+ },
+ "oracle2": {
+  "n_realisations": 2,
+  "coverage_exp": [
+   1.0,
+   1.0
+  ],
+  "coverage_const": [
+   0.5,
+   1.0
+  ],
+  "median_width_exp": [
+   0.501,
+   0.138
+  ],
+  "median_width_const": [
+   0.399,
+   0.41
+  ],
+  "false_positive_rate": 0.0,
+  "power_exp": 1.0,
+  "pass_": false
+ },
+ "status": "UNVALIDATED"
+}

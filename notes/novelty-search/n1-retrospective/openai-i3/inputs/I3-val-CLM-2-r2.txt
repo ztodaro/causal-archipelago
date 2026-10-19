@@ -1,0 +1,31 @@
+You are assessing a research idea for a project ledger. Below is a
+claim packet: background, the idea as generated, and a facet
+decomposition. This is a CLOSED-BOOK judgment: do not use any tools,
+web search, file access, or code execution — judge only from your own
+knowledge. Question: is the idea's core MECHANISM novel, or does
+published work anticipate it? Reply in exactly this format:
+VERDICT: NOVEL | NOT-NOVEL
+CONFIDENCE: <0-100, that your verdict is correct>
+PRIOR-ART: <name or materially describe the closest published work, or NONE>
+REASONING: <max 150 words>
+BACKGROUND: In a standard expanding ΛCDM universe there is an event
+horizon: a maximum comoving distance χ_event from which a light signal
+emitted now can ever reach us. A civilization launches probes at
+constant peculiar speed v (in units of c) to explore its surroundings.
+
+IDEA: Distinguish touching from knowing. A probe launched at speed v
+can eventually reach comoving distance χ_touch = v·χ_event. But for
+the home civilization to LEARN anything, the probe's findings must
+travel back as a light signal that arrives before expansion forbids
+it. The two-way constraint gives a clean closed-form law: the
+reporting horizon is χ_know = [v/(1+v)]·χ_event. At the light-speed
+limit this saturates at exactly half the event horizon — one eighth of
+the reachable volume. Higher probe speed increases absolute reach
+while the reporting fraction of reachable volume falls.
+
+FACETS — purpose: quantify what a stay-at-home civilization can ever
+come to know in an expanding universe; mechanism: composing the
+outbound probe worldline with the return light signal in comoving
+coordinates yields the v/(1+v) reporting horizon; domain: cosmology of
+horizons; method: conformal-time light-cone algebra, closed form;
+data: standard ΛCDM background.

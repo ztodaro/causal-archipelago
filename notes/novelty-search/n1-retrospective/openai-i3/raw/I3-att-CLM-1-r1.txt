@@ -1,0 +1,4 @@
+VERDICT: NOT-NOVEL
+CONFIDENCE: 99
+PRIOR-ART: Kamdar et al. (2019), “Stars that Move Together Were Born Together,” ApJ Letters 884, L42.
+REASONING: This work combines Gaia kinematics with spectroscopic metallicities to test whether comoving stellar pairs are birth siblings. It compares their metallicity differences with those of random pairs, finding excess chemical similarity among kinematically associated stars. That anticipates the proposed mechanism, observational architecture, statistic, and interpretation: common birth chemistry independently supports a shared origin for kinematically selected pairs. Related chemical-tagging tests using wide binaries appear in Andrews et al., “Wide Binaries as a Critical Test of Chemical Tagging” (2018). Different separation cuts, more careful control matching, or larger survey samples could improve the analysis, but the central mechanism is already published.

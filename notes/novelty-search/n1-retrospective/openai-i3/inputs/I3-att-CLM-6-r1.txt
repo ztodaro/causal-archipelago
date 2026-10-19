@@ -1,0 +1,37 @@
+You are a red-team prior-art hunter. Your success metric IS finding
+prior art. The research idea below quite possibly reconstructs
+published work without knowing it — your job is to locate what it
+reconstructs. This is a CLOSED-BOOK exercise: do not use any tools,
+web search, file access, or code execution — hunt only within your own
+knowledge. If, after a hard hunt, you find no anticipating work for
+the core MECHANISM, say so. Reply in exactly this format:
+VERDICT: NOVEL | NOT-NOVEL
+CONFIDENCE: <0-100, that your verdict is correct>
+PRIOR-ART: <name or materially describe the closest published work, or NONE>
+REASONING: <max 150 words>
+BACKGROUND: Whether very wide binaries (separations of thousands of
+AU, internal accelerations near 10⁻¹⁰ m/s²) show a gravity boost above
+the Newtonian prediction is an active, explicitly disputed question in
+the literature, with published claims on both sides drawn from Gaia
+data.
+
+IDEA: A decision-grade test design with three commitments made BEFORE
+any outcome is computed: (1) preregistration of exactly four
+statistics on a public wide-binary catalog (≤200 pc), sealed and
+timestamped cryptographically before unblinding, analyzed once; (2)
+NOISE-CALIBRATED anchors — the key step: a pure-Newtonian mock with
+realistic measurement noise inflates the naive velocity-ratio
+statistic substantially (≈ +0.10), so the Newtonian and
+modified-gravity reference values are recomputed under the noise model
+rather than compared to the naive theoretical anchor, which would
+otherwise manufacture a spurious boost detection; (3) an explicit
+domain of licensed conclusions stated in advance (sampled separation
+and acceleration ranges only).
+
+FACETS — purpose: adjudicate a disputed low-acceleration gravity
+anomaly; mechanism: recomputing decision anchors under a
+noise-injected null model so that measurement noise cannot masquerade
+as a modified-gravity signal, combined with cryptographically sealed
+preregistration; domain: gravitational dynamics of wide binaries;
+method: preregistered sealed analysis of a public catalog with
+calibrated anchors; data: public Gaia-derived wide-binary catalog.

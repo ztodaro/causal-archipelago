@@ -1,0 +1,4 @@
+VERDICT: NOT-NOVEL
+CONFIDENCE: 95
+PRIOR-ART: Published causal-diamond constructions, particularly Raphael Bousso’s “Holographic probabilities in eternal inflation” (2006).
+REASONING: The core mechanism is the standard causal diamond: intersect the future light cone of a departure event with the past light cone of the observer’s future endpoint. This already enforces both outward access and subsequent receipt of information. If remaining conformal time is T, an outbound probe requires χ/v and its report requires χ, so χ/v + χ ≤ T immediately gives χ ≤ vT/(1+v). The light-speed half-horizon limit is the diamond’s familiar maximum spatial radius; the one-eighth volume and decreasing reporting fraction follow algebraically. I do not assert that Bousso explicitly presents this probe-speed formula, but the causal mechanism is established, and the formula is a direct specialization rather than a new mechanism.

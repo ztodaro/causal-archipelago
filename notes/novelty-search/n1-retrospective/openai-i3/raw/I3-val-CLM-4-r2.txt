@@ -1,0 +1,4 @@
+VERDICT: NOT-NOVEL
+CONFIDENCE: 88
+PRIOR-ART: Classical Brunn–Minkowski symmetrization proof of the isodiametric inequality; closely related to Brunn’s theorem on volumes of sections of convex bodies.
+REASONING: The central mechanism is a standard convex-geometric argument: the normalized difference body (K−K)/2 has volume at least that of K by Brunn–Minkowski. If that symmetrized body lies inside the stationary reporting ball, the desired volume bound follows immediately. Equivalently, centrally symmetric, jointly convex feasibility families have maximal section volume at their center. Establishing the required containment for this cosmological reporting model could be a new application and a substantive calculation, but the mechanism enforcing the stationary optimum is already published mathematics. I do not know prior work containing the particular two-collector union formula; that extension could be new without making the stated core mechanism novel.

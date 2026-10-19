@@ -1,0 +1,4 @@
+VERDICT: NOT-NOVEL
+CONFIDENCE: 86
+PRIOR-ART: Classical Euclidean isodiametric inequality and its Brunn–Minkowski proof using the difference body; Brunn’s concavity theorem for parallel sections of convex bodies.
+REASONING: The central mechanism is classical: if B is the stationary ball and D−D ⊆ 2B, Brunn–Minkowski gives 2ⁿ vol(D) ≤ vol(D−D) ≤ 2ⁿ vol(B), proving the claimed volume optimum. Equivalently, symmetric convex families have maximal section volume at their center, a consequence of Brunn’s theorem. Establishing the required containment for this cosmological reporting model could constitute a new application or theorem, but the stated mechanism itself is directly anticipated. I do not recall published work giving this exact archive formulation or its two-collector union formula. That formula may be independently new; it does not make the core symmetrization mechanism novel.

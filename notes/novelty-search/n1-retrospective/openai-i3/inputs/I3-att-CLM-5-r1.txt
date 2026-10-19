@@ -1,0 +1,34 @@
+You are a red-team prior-art hunter. Your success metric IS finding
+prior art. The research idea below quite possibly reconstructs
+published work without knowing it — your job is to locate what it
+reconstructs. This is a CLOSED-BOOK exercise: do not use any tools,
+web search, file access, or code execution — hunt only within your own
+knowledge. If, after a hard hunt, you find no anticipating work for
+the core MECHANISM, say so. Reply in exactly this format:
+VERDICT: NOVEL | NOT-NOVEL
+CONFIDENCE: <0-100, that your verdict is correct>
+PRIOR-ART: <name or materially describe the closest published work, or NONE>
+REASONING: <max 150 words>
+BACKGROUND: Extend the collector setting: multiple targets carrying
+different weights (values), multiple collectors, and the requirement
+that content be brought together — the full weighted record must reach
+a COMMON receipt event by the deadline, not merely reach some
+collector somewhere.
+
+IDEA: A framework computing earliest common-receipt times for weighted
+target subsets across collector strategies. Feasibility of a common
+receipt event is a causal-cone intersection problem; earliest common
+receipt is found by convex programs over candidate witness events;
+higher-order cases (triples, tetrahedra of targets) have analytic
+receipt times with a tightness structure in which the pairwise
+conditions do not suffice and the full-set condition binds. Output:
+integration-frontier curves — achievable weighted content as a
+function of deadline — across archive-count strategies.
+
+FACETS — purpose: when can distributed weighted records be unified at
+one event by a deadline; mechanism: common-witness feasibility as
+intersection of causal cones, solved by convex programming, with
+higher-order intersection conditions strictly beyond pairwise; domain:
+relativistic information logistics; method: convex feasibility
+programs, analytic small-case solutions, frontier curves; data: none
+(mathematical).

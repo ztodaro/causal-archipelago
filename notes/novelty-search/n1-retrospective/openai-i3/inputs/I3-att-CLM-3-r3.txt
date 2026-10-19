@@ -1,0 +1,33 @@
+You are a red-team prior-art hunter. Your success metric IS finding
+prior art. The research idea below quite possibly reconstructs
+published work without knowing it — your job is to locate what it
+reconstructs. This is a CLOSED-BOOK exercise: do not use any tools,
+web search, file access, or code execution — hunt only within your own
+knowledge. If, after a hard hunt, you find no anticipating work for
+the core MECHANISM, say so. Reply in exactly this format:
+VERDICT: NOVEL | NOT-NOVEL
+CONFIDENCE: <0-100, that your verdict is correct>
+PRIOR-ART: <name or materially describe the closest published work, or NONE>
+REASONING: <max 150 words>
+BACKGROUND: Model conscious or communicating loci as nodes embedded in
+spacetime (or points with regions of causal access). Integration of
+knowledge requires records from multiple loci reaching a shared event.
+
+IDEA: Pairwise mutual reachability, even for ALL pairs, does not imply
+the existence of any common receiver event that can collect every
+record. The obstruction is geometric: regions can intersect pairwise
+without sharing a single common point, so a network in which every
+pair can exchange records may still admit no event at which all
+records coexist. Collective integration therefore requires a
+strictly stronger higher-order condition (a common witness for the
+whole set), and any model that infers collective access from pairwise
+compatibility systematically overstates what the network can
+integrate.
+
+FACETS — purpose: correct the inference from pairwise connectivity to
+collective integration; mechanism: pairwise-intersecting causal
+regions need not have a common intersection — the higher-order
+condition is strictly stronger than the pairwise one; domain: causal
+structure of communication networks in spacetime; method: geometric
+counterexample plus a formal condition separating pairwise from
+common-witness access; data: none (mathematical).

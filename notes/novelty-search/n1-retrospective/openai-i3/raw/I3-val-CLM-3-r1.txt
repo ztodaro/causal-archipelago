@@ -1,0 +1,4 @@
+VERDICT: NOT-NOVEL
+CONFIDENCE: 99
+PRIOR-ART: Helly’s theorem (Eduard Helly, 1923) and the standard distinction between Čech complexes and Vietoris–Rips complexes.
+REASONING: The core mechanism is the classical failure of pairwise intersection to imply total intersection. Helly’s theorem identifies stronger intersection conditions sufficient for a common point in convex families; the Čech/Vietoris–Rips distinction explicitly separates common-intersection simplices from simplices inferred through pairwise compatibility. Applying this distinction to record-access regions supplies a domain interpretation, not a new mechanism. Moreover, the spacetime claim needs qualifications: any finite collection of events in unrestricted Minkowski spacetime has a common future event. An actual obstruction therefore requires suitable causal geometry or additional restrictions, such as deadlines, horizons, or bounded access regions.

@@ -1,0 +1,254 @@
+{
+  "I3-att-CLM-1-r1": {
+    "strict": 1,
+    "material": 1,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "Names Kamdar 2019 and its observational comoving-pair metallicity comparison."
+  },
+  "I3-att-CLM-1-r2": {
+    "strict": 1,
+    "material": 1,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "Names Kamdar 2019 and its observational comoving-pair metallicity comparison."
+  },
+  "I3-att-CLM-1-r3": {
+    "strict": 1,
+    "material": 1,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "Names Kamdar 2019 and its observational comoving-pair metallicity comparison."
+  },
+  "I3-att-CLM-2-r1": {
+    "strict": 0,
+    "material": 1,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "Does not identify Olson 2022. Identifies established round-trip/causal-diamond literature and describes the anticipating geometric mechanism; explicitly does not recall the arbitrary-speed formula in that publication. Generous material match, not verified exact anticipation."
+  },
+  "I3-att-CLM-2-r2": {
+    "strict": 0,
+    "material": 1,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "Does not identify Olson 2022. Identifies established round-trip/causal-diamond literature and describes the anticipating geometric mechanism; explicitly does not recall the arbitrary-speed formula in that publication. Generous material match, not verified exact anticipation."
+  },
+  "I3-att-CLM-2-r3": {
+    "strict": 0,
+    "material": 1,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "Does not identify Olson 2022. Identifies established round-trip/causal-diamond literature and describes the anticipating geometric mechanism; explicitly does not recall the arbitrary-speed formula in that publication. Generous material match, not verified exact anticipation."
+  },
+  "I3-att-CLM-3-r1": {
+    "strict": 0,
+    "material": 1,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "Names Helly and Cech nerves versus clique/flag complexes and describes the exact distinction, but does not name Vietoris–Rips. Conservative literal strict score 0; equivalent-frame sensitivity would score 1. Material 1."
+  },
+  "I3-att-CLM-3-r2": {
+    "strict": 1,
+    "material": 1,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "Explicitly names the Cech–Vietoris–Rips distinction and correctly relates common intersections to pairwise clique completion."
+  },
+  "I3-att-CLM-3-r3": {
+    "strict": 1,
+    "material": 1,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "Explicitly names the Cech–Vietoris–Rips distinction and correctly relates common intersections to pairwise clique completion."
+  },
+  "I3-att-CLM-4-r1": {
+    "strict": 0,
+    "material": 1,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "Names classical Brunn–Minkowski/central-section symmetrization and describes the actual volume-bound proof. Does not identify Olson reporting ancestry; exact cosmological application remains unlocated in the response."
+  },
+  "I3-att-CLM-4-r2": {
+    "strict": 0,
+    "material": 1,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "Names classical Brunn–Minkowski/central-section symmetrization and describes the actual volume-bound proof. Does not identify Olson reporting ancestry; exact cosmological application remains unlocated in the response."
+  },
+  "I3-att-CLM-4-r3": {
+    "strict": 0,
+    "material": 1,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "Names classical Brunn–Minkowski/central-section symmetrization and describes the actual volume-bound proof. Does not identify Olson reporting ancestry; exact cosmological application remains unlocated in the response."
+  },
+  "I3-att-CLM-5-r1": {
+    "strict": 1,
+    "material": 1,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "Identifies the Euclidean one-center/minimax and convex common-receipt program with explicit triangle/tetrahedron constraints. This matches the frozen Helly/convex causal-cone slots; individual target-value weights are distinguished from emission-time weights."
+  },
+  "I3-att-CLM-5-r2": {
+    "strict": 1,
+    "material": 1,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "Identifies the Euclidean one-center/minimax and convex common-receipt program with explicit triangle/tetrahedron constraints. This matches the frozen Helly/convex causal-cone slots; individual target-value weights are distinguished from emission-time weights."
+  },
+  "I3-att-CLM-5-r3": {
+    "strict": 1,
+    "material": 1,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "Identifies the Euclidean one-center/minimax and convex common-receipt program with explicit triangle/tetrahedron constraints. This matches the frozen Helly/convex causal-cone slots; individual target-value weights are distinguished from emission-time weights."
+  },
+  "I3-att-CLM-6-r1": {
+    "strict": null,
+    "material": null,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "UNLOCATED claim excluded from locate denominator by preregistration. No relabeling despite the judge identifying calibration precedents."
+  },
+  "I3-att-CLM-6-r2": {
+    "strict": null,
+    "material": null,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "UNLOCATED claim excluded from locate denominator by preregistration. No relabeling despite the judge identifying calibration precedents."
+  },
+  "I3-att-CLM-6-r3": {
+    "strict": null,
+    "material": null,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "UNLOCATED claim excluded from locate denominator by preregistration. No relabeling despite the judge identifying calibration precedents."
+  },
+  "I3-att-CLM-7-r1": {
+    "strict": 0,
+    "material": 1,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "No Bloor strong-programme citation. Argyris action science is described as theory-conditioned recursive evaluation with empirical correction: a provisional generous methodological-reflexivity family match, not a verified match to the exact Bloor source. The precise dated-version requirement is expressly unlocated. Treating only actual Bloor-source descriptions as material matches would score 0."
+  },
+  "I3-att-CLM-7-r2": {
+    "strict": 0,
+    "material": 1,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "No Bloor strong-programme citation. Argyris action science is described as theory-conditioned recursive evaluation with empirical correction: a provisional generous methodological-reflexivity family match, not a verified match to the exact Bloor source. The precise dated-version requirement is expressly unlocated. Treating only actual Bloor-source descriptions as material matches would score 0."
+  },
+  "I3-att-CLM-7-r3": {
+    "strict": 0,
+    "material": 1,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "No Bloor strong-programme citation. Argyris action science is described as theory-conditioned recursive evaluation with empirical correction: a provisional generous methodological-reflexivity family match, not a verified match to the exact Bloor source. The precise dated-version requirement is expressly unlocated. Treating only actual Bloor-source descriptions as material matches would score 0."
+  },
+  "I3-val-CLM-1-r1": {
+    "strict": 0,
+    "material": 1,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "Names Simpson GALAH comoving chemistry and Andrews wide-pair chemistry comparisons. Mechanism-level observational match; neither the ledger Kamdar nor Nelson work is named."
+  },
+  "I3-val-CLM-1-r2": {
+    "strict": 1,
+    "material": 1,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "Names Kamdar 2019 and Andrews with the observational kinematic-pair chemistry comparison."
+  },
+  "I3-val-CLM-1-r3": {
+    "strict": 0,
+    "material": 1,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "Names Andrews wide-binary chemical tagging and describes comoving-pair literature, but no Kamdar/Nelson source identification. Generous material observational match."
+  },
+  "I3-val-CLM-2-r1": {
+    "strict": 0,
+    "material": 1,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "Names causal-diamond or round-trip resource/computation literature and describes the two-leg conformal-time budget. Does not identify Olson 2022; exact arbitrary-speed formula in the named work is not established. Generous material mechanism match."
+  },
+  "I3-val-CLM-2-r2": {
+    "strict": 0,
+    "material": 1,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "Names causal-diamond or round-trip resource/computation literature and describes the two-leg conformal-time budget. Does not identify Olson 2022; exact arbitrary-speed formula in the named work is not established. Generous material mechanism match."
+  },
+  "I3-val-CLM-2-r3": {
+    "strict": 0,
+    "material": 1,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "Names causal-diamond or round-trip resource/computation literature and describes the two-leg conformal-time budget. Does not identify Olson 2022; exact arbitrary-speed formula in the named work is not established. Generous material mechanism match."
+  },
+  "I3-val-CLM-3-r1": {
+    "strict": 1,
+    "material": 1,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "Names both Cech and Vietoris–Rips and describes higher-order versus pairwise intersection; directly matches the adjudicated mathematical frame."
+  },
+  "I3-val-CLM-3-r2": {
+    "strict": 1,
+    "material": 1,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "Names both Cech and Vietoris–Rips and describes higher-order versus pairwise intersection; directly matches the adjudicated mathematical frame."
+  },
+  "I3-val-CLM-3-r3": {
+    "strict": 1,
+    "material": 1,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "Names both Cech and Vietoris–Rips and describes higher-order versus pairwise intersection; directly matches the adjudicated mathematical frame."
+  },
+  "I3-val-CLM-4-r1": {
+    "strict": 0,
+    "material": 1,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "Names Brunn concavity/Brunn–Minkowski and the difference-body proof; no Olson reporting-law ancestry. Classical mechanism located; exact cosmological application and union formula remain unlocated."
+  },
+  "I3-val-CLM-4-r2": {
+    "strict": 0,
+    "material": 1,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "Identifies Brunn–Minkowski/difference-body or central-section volume proof. No Olson reporting ancestry, so strict 0 under the comparison rubric. Explicitly leaves the complete cosmological application and two-collector formula unlocated."
+  },
+  "I3-val-CLM-4-r3": {
+    "strict": 0,
+    "material": 1,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "Identifies Brunn–Minkowski/difference-body or central-section volume proof. No Olson reporting ancestry, so strict 0 under the comparison rubric. Explicitly leaves the complete cosmological application and two-collector formula unlocated."
+  },
+  "I3-val-CLM-5-r1": {
+    "strict": 1,
+    "material": 1,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "Identifies Helly and Euclidean one-center/minimax common-receipt optimization, with explicit causal-cone constraints and higher-order support. Matches the frozen mathematical slots."
+  },
+  "I3-val-CLM-5-r2": {
+    "strict": 1,
+    "material": 1,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "Identifies Helly and Euclidean one-center/minimax common-receipt optimization, with explicit causal-cone constraints and higher-order support. Matches the frozen mathematical slots."
+  },
+  "I3-val-CLM-5-r3": {
+    "strict": 1,
+    "material": 1,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "Identifies Helly and Euclidean one-center/minimax common-receipt optimization, with explicit causal-cone constraints and higher-order support. Matches the frozen mathematical slots."
+  },
+  "I3-val-CLM-6-r1": {
+    "strict": null,
+    "material": null,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "UNLOCATED claim excluded from locate denominator. Literal verdict remains a scored error against the frozen label; no ground-truth revision."
+  },
+  "I3-val-CLM-6-r2": {
+    "strict": null,
+    "material": null,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "UNLOCATED claim excluded from locate denominator. Literal verdict remains a scored error against the frozen label; no ground-truth revision."
+  },
+  "I3-val-CLM-6-r3": {
+    "strict": null,
+    "material": null,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "UNLOCATED claim excluded from locate denominator. Literal verdict remains a scored error against the frozen label; no ground-truth revision."
+  },
+  "I3-val-CLM-7-r1": {
+    "strict": 0,
+    "material": 1,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "No Bloor strong-programme citation. Argyris action science is described as theory-conditioned recursive evaluation with empirical correction: a provisional generous methodological-reflexivity family match, not a verified match to the exact Bloor source. Exact dated-version requirements are unlocated. Actual-source-only material scoring would assign 0."
+  },
+  "I3-val-CLM-7-r2": {
+    "strict": 0,
+    "material": 1,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "No Bloor strong-programme citation. Argyris action science is described as theory-conditioned recursive evaluation with empirical correction: a provisional generous methodological-reflexivity family match, not a verified match to the exact Bloor source. Exact dated-version requirements are unlocated. Actual-source-only material scoring would assign 0."
+  },
+  "I3-val-CLM-7-r3": {
+    "strict": 0,
+    "material": 1,
+    "coding_status": "provisional; owner ratification pending",
+    "rationale": "No Bloor strong-programme citation. Argyris action science is described as theory-conditioned recursive evaluation with empirical correction: a provisional generous methodological-reflexivity family match, not a verified match to the exact Bloor source. Exact dated-version requirements are unlocated. Actual-source-only material scoring would assign 0."
+  }
+}

@@ -1,0 +1,17 @@
+{
+ "spec": "E8-SPEC.md@28d308e",
+ "GALAH": {
+  "rows": 349899,
+  "tier1": 1439,
+  "tier2": 852,
+  "gold": 221,
+  "completeness_tier1_conditional": 0.059
+ },
+ "APOGEE": {
+  "rows": 331088,
+  "tier1": 639,
+  "tier2": 259,
+  "note": "exploratory lane; no GOLD from survey data (spec)"
+ },
+ "kill_condition_triggered": false
+}

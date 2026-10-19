@@ -1,0 +1,1553 @@
+{
+ "nonoverlap": [
+  {
+   "pair": 0,
+   "ids": [
+    "4827397727213196160",
+    "4827397731509363584"
+   ],
+   "sep_AU": 628.0,
+   "dist_pc": 87.8,
+   "vtilde_perp": 1.61,
+   "G": [
+    8.3,
+    8.1
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 32,
+   "ids": [
+    "3209947476293720448",
+    "3209947441933983744"
+   ],
+   "sep_AU": 2148.0,
+   "dist_pc": 41.8,
+   "vtilde_perp": 0.16,
+   "G": [
+    13.2,
+    8.6
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 34,
+   "ids": [
+    "3239590859534092160",
+    "3239590855237058560"
+   ],
+   "sep_AU": 567.0,
+   "dist_pc": 58.8,
+   "vtilde_perp": 0.34,
+   "G": [
+    10.3,
+    12.0
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 39,
+   "ids": [
+    "4810651860180442624",
+    "4810651928899919616"
+   ],
+   "sep_AU": 1877.0,
+   "dist_pc": 91.0,
+   "vtilde_perp": 0.3,
+   "G": [
+    11.9,
+    12.6
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 40,
+   "ids": [
+    "4774266958832573696",
+    "4774266954536267008"
+   ],
+   "sep_AU": 1309.0,
+   "dist_pc": 93.4,
+   "vtilde_perp": 0.77,
+   "G": [
+    12.6,
+    12.0
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 46,
+   "ids": [
+    "4873223829966552192",
+    "4873223623808123136"
+   ],
+   "sep_AU": 3100.0,
+   "dist_pc": 59.7,
+   "vtilde_perp": 0.36,
+   "G": [
+    6.6,
+    8.7
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 61,
+   "ids": [
+    "5536018853766420352",
+    "5536018849464104832"
+   ],
+   "sep_AU": 1046.0,
+   "dist_pc": 89.8,
+   "vtilde_perp": 0.39,
+   "G": [
+    9.1,
+    13.1
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 62,
+   "ids": [
+    "5602614829946480128",
+    "5602614898665954176"
+   ],
+   "sep_AU": 1042.0,
+   "dist_pc": 81.2,
+   "vtilde_perp": 0.36,
+   "G": [
+    8.7,
+    10.7
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 70,
+   "ids": [
+    "5596862799287215744",
+    "5596862803592182016"
+   ],
+   "sep_AU": 796.0,
+   "dist_pc": 68.9,
+   "vtilde_perp": 0.57,
+   "G": [
+    11.7,
+    9.6
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 71,
+   "ids": [
+    "5580412735242118400",
+    "5580415690179618304"
+   ],
+   "sep_AU": 1290.0,
+   "dist_pc": 55.5,
+   "vtilde_perp": 0.31,
+   "G": [
+    11.5,
+    9.5
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 77,
+   "ids": [
+    "4793703914933533952",
+    "4793698799628982656"
+   ],
+   "sep_AU": 2079.0,
+   "dist_pc": 45.6,
+   "vtilde_perp": 0.77,
+   "G": [
+    12.5,
+    10.7
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 78,
+   "ids": [
+    "4805207967655791488",
+    "4805207971952984448"
+   ],
+   "sep_AU": 1438.0,
+   "dist_pc": 42.3,
+   "vtilde_perp": 0.77,
+   "G": [
+    12.3,
+    8.7
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 91,
+   "ids": [
+    "3339921875389105152",
+    "3339914973377653760"
+   ],
+   "sep_AU": 1791.0,
+   "dist_pc": 11.4,
+   "vtilde_perp": 0.37,
+   "G": [
+    8.2,
+    11.2
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 94,
+   "ids": [
+    "4937336730939021184",
+    "4937336730939021312"
+   ],
+   "sep_AU": 722.0,
+   "dist_pc": 87.1,
+   "vtilde_perp": 0.41,
+   "G": [
+    11.0,
+    12.3
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 104,
+   "ids": [
+    "6354817019704696576",
+    "6354816985344958720"
+   ],
+   "sep_AU": 1311.0,
+   "dist_pc": 68.5,
+   "vtilde_perp": 0.24,
+   "G": [
+    13.1,
+    10.3
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 112,
+   "ids": [
+    "5245159614038979584",
+    "5245159614038691584"
+   ],
+   "sep_AU": 632.0,
+   "dist_pc": 90.8,
+   "vtilde_perp": 0.9,
+   "G": [
+    11.7,
+    13.9
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 118,
+   "ids": [
+    "5768182623750757632",
+    "5768182623750757376"
+   ],
+   "sep_AU": 792.0,
+   "dist_pc": 52.7,
+   "vtilde_perp": 0.33,
+   "G": [
+    12.2,
+    8.6
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 125,
+   "ids": [
+    "5793901472038301824",
+    "5793901575117519104"
+   ],
+   "sep_AU": 2632.0,
+   "dist_pc": 91.2,
+   "vtilde_perp": 1.2,
+   "G": [
+    11.2,
+    10.1
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 129,
+   "ids": [
+    "5778428246759375232",
+    "5778428319774980096"
+   ],
+   "sep_AU": 637.0,
+   "dist_pc": 67.2,
+   "vtilde_perp": 0.88,
+   "G": [
+    12.9,
+    9.6
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 155,
+   "ids": [
+    "4975284381908412672",
+    "4975284347548097152"
+   ],
+   "sep_AU": 708.0,
+   "dist_pc": 15.0,
+   "vtilde_perp": 0.76,
+   "G": [
+    5.6,
+    13.0
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 156,
+   "ids": [
+    "5291028284195365632",
+    "5291028181119851776"
+   ],
+   "sep_AU": 980.0,
+   "dist_pc": 16.2,
+   "vtilde_perp": 0.97,
+   "G": [
+    9.2,
+    5.4
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 166,
+   "ids": [
+    "6452166164320196096",
+    "6452166160024770688"
+   ],
+   "sep_AU": 723.0,
+   "dist_pc": 75.0,
+   "vtilde_perp": 0.73,
+   "G": [
+    10.1,
+    12.4
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 171,
+   "ids": [
+    "6433390354010843648",
+    "6433390354010613760"
+   ],
+   "sep_AU": 1059.0,
+   "dist_pc": 59.7,
+   "vtilde_perp": 0.34,
+   "G": [
+    14.1,
+    11.6
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 178,
+   "ids": [
+    "4035998433322978304",
+    "4035998639481417600"
+   ],
+   "sep_AU": 674.0,
+   "dist_pc": 47.2,
+   "vtilde_perp": 0.72,
+   "G": [
+    10.8,
+    10.6
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 180,
+   "ids": [
+    "6636642190870189568",
+    "6636642190870189824"
+   ],
+   "sep_AU": 821.0,
+   "dist_pc": 81.3,
+   "vtilde_perp": 1.28,
+   "G": [
+    12.2,
+    11.8
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 185,
+   "ids": [
+    "21257996466859264",
+    "21258168265001088"
+   ],
+   "sep_AU": 1896.0,
+   "dist_pc": 98.1,
+   "vtilde_perp": 1.49,
+   "G": [
+    9.5,
+    11.3
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 187,
+   "ids": [
+    "3275941607300057344",
+    "3275940817026075136"
+   ],
+   "sep_AU": 1579.0,
+   "dist_pc": 67.0,
+   "vtilde_perp": 0.61,
+   "G": [
+    13.0,
+    9.9
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 195,
+   "ids": [
+    "177943213788678144",
+    "177943213788678784"
+   ],
+   "sep_AU": 1094.0,
+   "dist_pc": 70.6,
+   "vtilde_perp": 0.29,
+   "G": [
+    10.4,
+    9.3
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 198,
+   "ids": [
+    "3419636575776307072",
+    "3419824248667573248"
+   ],
+   "sep_AU": 1370.0,
+   "dist_pc": 40.3,
+   "vtilde_perp": 1.21,
+   "G": [
+    11.7,
+    7.9
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 206,
+   "ids": [
+    "2791746338881656960",
+    "2791746338881935360"
+   ],
+   "sep_AU": 1192.0,
+   "dist_pc": 87.7,
+   "vtilde_perp": 0.93,
+   "G": [
+    8.6,
+    11.0
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 208,
+   "ids": [
+    "301886383583981568",
+    "301886383583981824"
+   ],
+   "sep_AU": 1154.0,
+   "dist_pc": 57.7,
+   "vtilde_perp": 0.67,
+   "G": [
+    10.2,
+    11.0
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 222,
+   "ids": [
+    "423840051515323904",
+    "423840154594538368"
+   ],
+   "sep_AU": 2510.0,
+   "dist_pc": 61.7,
+   "vtilde_perp": 0.11,
+   "G": [
+    12.2,
+    7.9
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 232,
+   "ids": [
+    "2538159890494125184",
+    "2538159890493432448"
+   ],
+   "sep_AU": 941.0,
+   "dist_pc": 59.2,
+   "vtilde_perp": 0.5,
+   "G": [
+    6.0,
+    9.3
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 246,
+   "ids": [
+    "456810629964685312",
+    "456811385878405888"
+   ],
+   "sep_AU": 1058.0,
+   "dist_pc": 35.5,
+   "vtilde_perp": 1.03,
+   "G": [
+    10.9,
+    13.1
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 267,
+   "ids": [
+    "2006899099154059904",
+    "2006899099154060800"
+   ],
+   "sep_AU": 1014.0,
+   "dist_pc": 59.5,
+   "vtilde_perp": 0.87,
+   "G": [
+    7.5,
+    9.5
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 298,
+   "ids": [
+    "6787949937336590080",
+    "6787949937336588800"
+   ],
+   "sep_AU": 1249.0,
+   "dist_pc": 45.5,
+   "vtilde_perp": 0.75,
+   "G": [
+    8.3,
+    12.6
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 309,
+   "ids": [
+    "6864451894817608832",
+    "6864451791738393600"
+   ],
+   "sep_AU": 752.0,
+   "dist_pc": 74.0,
+   "vtilde_perp": 0.51,
+   "G": [
+    10.6,
+    12.6
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 310,
+   "ids": [
+    "4075856039093385088",
+    "4075856039093376000"
+   ],
+   "sep_AU": 989.0,
+   "dist_pc": 56.5,
+   "vtilde_perp": 0.76,
+   "G": [
+    13.6,
+    7.8
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 312,
+   "ids": [
+    "4187697330994702208",
+    "4187685579964178176"
+   ],
+   "sep_AU": 1794.0,
+   "dist_pc": 66.3,
+   "vtilde_perp": 0.4,
+   "G": [
+    8.4,
+    12.6
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 332,
+   "ids": [
+    "6902108995538454656",
+    "6902108999833183232"
+   ],
+   "sep_AU": 2290.0,
+   "dist_pc": 92.1,
+   "vtilde_perp": 1.1,
+   "G": [
+    11.9,
+    8.3
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 344,
+   "ids": [
+    "4199387544795378176",
+    "4199387544795379968"
+   ],
+   "sep_AU": 1099.0,
+   "dist_pc": 87.4,
+   "vtilde_perp": 0.42,
+   "G": [
+    9.4,
+    9.4
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 353,
+   "ids": [
+    "3035648666814915200",
+    "3035648460656485120"
+   ],
+   "sep_AU": 962.0,
+   "dist_pc": 80.7,
+   "vtilde_perp": 0.72,
+   "G": [
+    11.4,
+    8.1
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 357,
+   "ids": [
+    "3089946158762370816",
+    "3089945402848127360"
+   ],
+   "sep_AU": 2667.0,
+   "dist_pc": 78.6,
+   "vtilde_perp": 0.44,
+   "G": [
+    11.6,
+    9.1
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 358,
+   "ids": [
+    "3076535243639085440",
+    "3076534861386561536"
+   ],
+   "sep_AU": 2735.0,
+   "dist_pc": 69.3,
+   "vtilde_perp": 0.93,
+   "G": [
+    9.8,
+    9.0
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 368,
+   "ids": [
+    "5625261780184482304",
+    "5625261780188418560"
+   ],
+   "sep_AU": 628.0,
+   "dist_pc": 98.7,
+   "vtilde_perp": 1.02,
+   "G": [
+    11.9,
+    8.8
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 374,
+   "ids": [
+    "5427809935880079744",
+    "5427809725420468864"
+   ],
+   "sep_AU": 2115.0,
+   "dist_pc": 90.2,
+   "vtilde_perp": 1.64,
+   "G": [
+    11.2,
+    10.4
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 380,
+   "ids": [
+    "5713485356248279168",
+    "5713438420844214400"
+   ],
+   "sep_AU": 1170.0,
+   "dist_pc": 61.7,
+   "vtilde_perp": 0.29,
+   "G": [
+    10.1,
+    11.4
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 394,
+   "ids": [
+    "5640774308703468928",
+    "5640774411782678912"
+   ],
+   "sep_AU": 1106.0,
+   "dist_pc": 35.2,
+   "vtilde_perp": 0.75,
+   "G": [
+    9.5,
+    12.0
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 401,
+   "ids": [
+    "706811330406572032",
+    "706811330406572288"
+   ],
+   "sep_AU": 736.0,
+   "dist_pc": 38.9,
+   "vtilde_perp": 1.45,
+   "G": [
+    10.4,
+    12.3
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 403,
+   "ids": [
+    "5470514211582645248",
+    "5470514142863169280"
+   ],
+   "sep_AU": 1056.0,
+   "dist_pc": 21.3,
+   "vtilde_perp": 0.52,
+   "G": [
+    13.0,
+    8.9
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 409,
+   "ids": [
+    "692120029700390912",
+    "692119656035933568"
+   ],
+   "sep_AU": 2524.0,
+   "dist_pc": 48.7,
+   "vtilde_perp": 0.68,
+   "G": [
+    8.1,
+    8.1
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 415,
+   "ids": [
+    "3854971162363523328",
+    "3854971162363523456"
+   ],
+   "sep_AU": 604.0,
+   "dist_pc": 61.5,
+   "vtilde_perp": 1.86,
+   "G": [
+    7.0,
+    10.6
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 424,
+   "ids": [
+    "3813955702155414144",
+    "3813955736515152768"
+   ],
+   "sep_AU": 1235.0,
+   "dist_pc": 75.2,
+   "vtilde_perp": 0.21,
+   "G": [
+    12.7,
+    10.0
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 432,
+   "ids": [
+    "728719752423780352",
+    "728719752423780480"
+   ],
+   "sep_AU": 1050.0,
+   "dist_pc": 89.4,
+   "vtilde_perp": 0.46,
+   "G": [
+    9.3,
+    12.9
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 435,
+   "ids": [
+    "802513196150189824",
+    "802513196148593920"
+   ],
+   "sep_AU": 615.0,
+   "dist_pc": 54.5,
+   "vtilde_perp": 0.83,
+   "G": [
+    12.1,
+    8.7
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 441,
+   "ids": [
+    "3897533562416529536",
+    "3897533562417465216"
+   ],
+   "sep_AU": 502.0,
+   "dist_pc": 62.9,
+   "vtilde_perp": 0.38,
+   "G": [
+    12.2,
+    13.2
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 453,
+   "ids": [
+    "212401697750158208",
+    "212401633328406912"
+   ],
+   "sep_AU": 632.0,
+   "dist_pc": 93.7,
+   "vtilde_perp": 1.01,
+   "G": [
+    8.4,
+    10.6
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 464,
+   "ids": [
+    "1083473021598314496",
+    "1083473021597836160"
+   ],
+   "sep_AU": 2141.0,
+   "dist_pc": 85.1,
+   "vtilde_perp": 0.88,
+   "G": [
+    10.9,
+    8.3
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 466,
+   "ids": [
+    "1040254960426076416",
+    "1040254964721358592"
+   ],
+   "sep_AU": 617.0,
+   "dist_pc": 81.1,
+   "vtilde_perp": 0.8,
+   "G": [
+    9.8,
+    10.2
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 485,
+   "ids": [
+    "503102783904224384",
+    "503105738841723904"
+   ],
+   "sep_AU": 1393.0,
+   "dist_pc": 53.0,
+   "vtilde_perp": 0.83,
+   "G": [
+    11.1,
+    12.2
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 497,
+   "ids": [
+    "2286898325083288448",
+    "2286898320788323456"
+   ],
+   "sep_AU": 665.0,
+   "dist_pc": 81.7,
+   "vtilde_perp": 0.23,
+   "G": [
+    12.7,
+    9.1
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 507,
+   "ids": [
+    "478737262637242240",
+    "478737331356716800"
+   ],
+   "sep_AU": 1184.0,
+   "dist_pc": 28.0,
+   "vtilde_perp": 1.11,
+   "G": [
+    11.7,
+    9.3
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 555,
+   "ids": [
+    "1566617912814320768",
+    "1566617912814321664"
+   ],
+   "sep_AU": 2101.0,
+   "dist_pc": 81.0,
+   "vtilde_perp": 1.48,
+   "G": [
+    10.2,
+    8.5
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 558,
+   "ids": [
+    "1625568744133808640",
+    "1625568744133808768"
+   ],
+   "sep_AU": 1707.0,
+   "dist_pc": 73.1,
+   "vtilde_perp": 0.56,
+   "G": [
+    12.9,
+    12.7
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 564,
+   "ids": [
+    "1627613492164060544",
+    "1627613492164060416"
+   ],
+   "sep_AU": 978.0,
+   "dist_pc": 85.6,
+   "vtilde_perp": 0.12,
+   "G": [
+    9.4,
+    13.0
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 565,
+   "ids": [
+    "1599865907488131456",
+    "1599865907488131328"
+   ],
+   "sep_AU": 957.0,
+   "dist_pc": 85.7,
+   "vtilde_perp": 0.16,
+   "G": [
+    10.9,
+    7.9
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 578,
+   "ids": [
+    "6155633955687777280",
+    "6155633925622826880"
+   ],
+   "sep_AU": 2720.0,
+   "dist_pc": 68.6,
+   "vtilde_perp": 1.47,
+   "G": [
+    12.1,
+    8.1
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 589,
+   "ids": [
+    "5885652625007439744",
+    "5885652521928214784"
+   ],
+   "sep_AU": 1559.0,
+   "dist_pc": 39.3,
+   "vtilde_perp": 0.29,
+   "G": [
+    9.9,
+    13.0
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 595,
+   "ids": [
+    "5975356899623619328",
+    "5975359751481904128"
+   ],
+   "sep_AU": 1087.0,
+   "dist_pc": 42.1,
+   "vtilde_perp": 0.53,
+   "G": [
+    12.4,
+    12.9
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 596,
+   "ids": [
+    "5984485594939569280",
+    "5984485594939574016"
+   ],
+   "sep_AU": 1722.0,
+   "dist_pc": 50.7,
+   "vtilde_perp": 1.66,
+   "G": [
+    6.2,
+    11.0
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 597,
+   "ids": [
+    "5985573458639823232",
+    "5985573458639821440"
+   ],
+   "sep_AU": 533.0,
+   "dist_pc": 68.5,
+   "vtilde_perp": 0.66,
+   "G": [
+    8.5,
+    9.7
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 607,
+   "ids": [
+    "4061464836252568448",
+    "4061464840615808384"
+   ],
+   "sep_AU": 684.0,
+   "dist_pc": 90.5,
+   "vtilde_perp": 0.65,
+   "G": [
+    11.0,
+    8.5
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 618,
+   "ids": [
+    "3467856379767024128",
+    "3467856379767270144"
+   ],
+   "sep_AU": 1021.0,
+   "dist_pc": 93.7,
+   "vtilde_perp": 0.6,
+   "G": [
+    11.2,
+    11.8
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 650,
+   "ids": [
+    "1408029436569383296",
+    "1408029509584967168"
+   ],
+   "sep_AU": 2016.0,
+   "dist_pc": 17.9,
+   "vtilde_perp": 1.22,
+   "G": [
+    7.6,
+    7.5
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 654,
+   "ids": [
+    "2135550755683407232",
+    "2135550755683405952"
+   ],
+   "sep_AU": 840.0,
+   "dist_pc": 21.1,
+   "vtilde_perp": 0.94,
+   "G": [
+    6.1,
+    5.8
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 657,
+   "ids": [
+    "4142016913519679360",
+    "4142017673735064448"
+   ],
+   "sep_AU": 816.0,
+   "dist_pc": 27.1,
+   "vtilde_perp": 0.29,
+   "G": [
+    11.7,
+    11.7
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 661,
+   "ids": [
+    "4391977520454888832",
+    "4391977279936719360"
+   ],
+   "sep_AU": 1415.0,
+   "dist_pc": 49.1,
+   "vtilde_perp": 0.48,
+   "G": [
+    10.1,
+    13.2
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 665,
+   "ids": [
+    "4170824152529516928",
+    "4170824088116483968"
+   ],
+   "sep_AU": 2698.0,
+   "dist_pc": 61.9,
+   "vtilde_perp": 0.95,
+   "G": [
+    11.7,
+    9.4
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 682,
+   "ids": [
+    "2033283491256820864",
+    "2033283495595982208"
+   ],
+   "sep_AU": 1607.0,
+   "dist_pc": 81.2,
+   "vtilde_perp": 0.86,
+   "G": [
+    12.3,
+    9.8
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 684,
+   "ids": [
+    "2180691377369595648",
+    "2180691171211164544"
+   ],
+   "sep_AU": 1725.0,
+   "dist_pc": 81.4,
+   "vtilde_perp": 0.23,
+   "G": [
+    13.1,
+    10.6
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 688,
+   "ids": [
+    "4323172900314168576",
+    "4323173003393392896"
+   ],
+   "sep_AU": 1540.0,
+   "dist_pc": 56.5,
+   "vtilde_perp": 0.64,
+   "G": [
+    10.4,
+    13.2
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 695,
+   "ids": [
+    "4271016947755097472",
+    "4271016947755095296"
+   ],
+   "sep_AU": 1279.0,
+   "dist_pc": 95.3,
+   "vtilde_perp": 0.24,
+   "G": [
+    10.6,
+    11.9
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 698,
+   "ids": [
+    "1371712468720825600",
+    "1371712846677977216"
+   ],
+   "sep_AU": 1506.0,
+   "dist_pc": 45.5,
+   "vtilde_perp": 1.38,
+   "G": [
+    12.6,
+    13.1
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 726,
+   "ids": [
+    "4558397710654524288",
+    "4558397710655578368"
+   ],
+   "sep_AU": 973.0,
+   "dist_pc": 80.2,
+   "vtilde_perp": 0.27,
+   "G": [
+    9.1,
+    10.7
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  },
+  {
+   "pair": 729,
+   "ids": [
+    "1336685395514923520",
+    "1336685391220036096"
+   ],
+   "sep_AU": 2245.0,
+   "dist_pc": 84.2,
+   "vtilde_perp": 1.81,
+   "G": [
+    7.4,
+    12.0
+   ],
+   "in_elbadry_with_other": [
+    false,
+    false
+   ]
+  }
+ ],
+ "injection": {
+  "n": 4000,
+  "screen_pass": 0.071,
+  "survivor_tail": 0.3591549295774648,
+  "observed_tail": 0.01904761904761905,
+  "implied_f": 0.0,
+  "median_vs_f": {
+   "0.0": 0.548,
+   "0.1": 0.591,
+   "0.15": 0.619,
+   "0.2": 0.64
+  }
+ },
+ "noise_mc": {
+  "median": 0.545,
+  "median_sd": 0.0039,
+  "tail": 0.018,
+  "tail_sd": 0.0017
+ }
+}

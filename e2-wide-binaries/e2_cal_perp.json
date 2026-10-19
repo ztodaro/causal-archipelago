@@ -1,0 +1,10 @@
+{
+ "n": 735,
+ "vtilde_perp": {
+  "median": 0.548,
+  "p25": 0.352,
+  "p75": 0.763,
+  "frac_above_sqrt2": 0.019,
+  "frac_above_2": 0.0
+ }
+}

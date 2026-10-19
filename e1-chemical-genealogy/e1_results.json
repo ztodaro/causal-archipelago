@@ -1,0 +1,20 @@
+{
+ "GALAH": {
+  "status": "insufficient",
+  "treat_pairs": 3
+ },
+ "APOGEE": {
+  "status": "ok",
+  "stars": 7448,
+  "treat_pairs": 245,
+  "control_pairs": 2445,
+  "med_treat": 0.1604,
+  "med_control": 0.2812,
+  "med_diff": -0.1208,
+  "boot_CI": [
+   -0.2296,
+   0.1119
+  ],
+  "mannwhitney_p": 0.27
+ }
+}

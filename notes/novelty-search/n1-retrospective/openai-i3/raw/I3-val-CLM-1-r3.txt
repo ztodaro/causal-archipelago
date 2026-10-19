@@ -1,0 +1,4 @@
+VERDICT: NOT-NOVEL
+CONFIDENCE: 98
+PRIOR-ART: Andrews et al., “Wide Binaries as a Critical Test of Chemical Tagging,” and published chemical-abundance comparisons of Gaia-selected comoving pairs.
+REASONING: The core mechanism is established chemical tagging: stars formed together should share natal abundances, so chemical agreement independently tests associations selected through astrometry. Published wide-pair studies cross-match astrometric pair catalogs with spectroscopic surveys and compare within-pair abundance differences against unrelated stellar pairs. This anticipates the proposed observable, comparison strategy, and interpretation. Emphasizing dissolved-cluster siblings rather than bound binaries changes the target population, but does not introduce a new mechanism. More careful control matching, larger catalogs, or better abundance measurements could yield a useful empirical contribution without making the central idea novel.

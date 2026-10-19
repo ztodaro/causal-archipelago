@@ -1,0 +1,19 @@
+tree 013c1259c7d9d95fd5089071972b3d4b9045d5c9
+parent 02ca064087bfd64cca11c1e66a4c1ed757cb865d
+author Zach Todaro <ztodaro@gmail.com> 1788080047 +0000
+committer Zach Todaro <ztodaro@gmail.com> 1788080047 +0000
+
+E2 pre-unseal complete: projected-separation correction, 735 cal pairs, f~0 contamination, analysis frozen
+
+Calibration caught a spec deviation (3D vs projected separation - radial
+component is parallax-noise at these scales); corrected, both runs
+preserved. Corrected calibration: vtilde_perp median 0.548, 1.9% above
+sqrt(2) = pure-noise expectation (1.8+/-0.2%), El-Badry 88% with
+non-overlaps characterized. Injection: screens kill 93% of triples;
+residual f ~ 0 (<3%); even f=0.15 cannot fake a 20% boost. Pre-unseal
+amendments frozen: primary = El-Badry-intersected subset; decision
+statistic = median ratio low-a/high-a bins, symmetric reporting. Seal
+unbroken; unseal awaits owner.
+
+Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01Bs3JrqLxwVuqZ2QA9XVnqP

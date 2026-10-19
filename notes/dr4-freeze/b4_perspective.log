@@ -1,0 +1,9 @@
+calibration_10_100a0 {'n': 6933, 'theta_rad_p50': 3.166365792485936e-05, 'vcirc_kms_p50': 0.7999177244374175, 'e_vtp_p50': 0.07002718488516317, 'delta_p50_sigma20': 0.00051, 'delta_p90_sigma20': 0.00171, 'delta_p50_sigma25': 0.00063, 'delta_p90_sigma25': 0.00214, 'delta_p50_sigma30': 0.00076, 'delta_p90_sigma30': 0.00257}
+decision_0.1_1a0 {'n': 1377, 'theta_rad_p50': 0.0002961711667385466, 'vcirc_kms_p50': 0.2628677927552404, 'e_vtp_p50': 0.1926185400901829, 'delta_p50_sigma20': 0.01409, 'delta_p90_sigma20': 0.05282, 'delta_p50_sigma25': 0.01761, 'delta_p90_sigma25': 0.06603, 'delta_p50_sigma30': 0.02114, 'delta_p90_sigma30': 0.07924}
+flicker_0.1_0.3a0 {'n': 479, 'theta_rad_p50': 0.0004501027410653399, 'vcirc_kms_p50': 0.21560027385355252, 'e_vtp_p50': 0.22757930966389645, 'delta_p50_sigma20': 0.02714, 'delta_p90_sigma20': 0.07173, 'delta_p50_sigma25': 0.03393, 'delta_p90_sigma25': 0.08966, 'delta_p50_sigma30': 0.04071, 'delta_p90_sigma30': 0.10759}
+anchors_no_perspective_reproduction {'newton': {'primary_ratio': [1.1167, 1.0677, 1.1643], 'flicker_median': [0.6822, 0.6315, 0.7268]}, 'mond': {'primary_ratio': [1.2993, 1.2444, 1.356], 'flicker_median': [0.789, 0.7399, 0.8427]}}
+anchors_perspective_sigma20 {'newton': {'primary_ratio': [1.1184, 1.0706, 1.1718], 'flicker_median': [0.6847, 0.6416, 0.7292]}, 'mond': {'primary_ratio': [1.299, 1.2451, 1.3513], 'flicker_median': [0.7841, 0.7392, 0.8392]}}
+anchors_perspective_sigma25 {'newton': {'primary_ratio': [1.1201, 1.0717, 1.1735], 'flicker_median': [0.6863, 0.6398, 0.7303]}, 'mond': {'primary_ratio': [1.2993, 1.2461, 1.3534], 'flicker_median': [0.7856, 0.7387, 0.8396]}}
+anchors_perspective_sigma30 {'newton': {'primary_ratio': [1.1196, 1.0732, 1.1723], 'flicker_median': [0.6864, 0.6408, 0.7283]}, 'mond': {'primary_ratio': [1.2999, 1.243, 1.3531], 'flicker_median': [0.7871, 0.7424, 0.8408]}}
+DONE
+B4 exit 0

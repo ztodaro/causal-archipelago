@@ -1,0 +1,34 @@
+{
+ "GALAH": {
+  "status": "ok",
+  "stars": 316016,
+  "treat": 1288,
+  "controls": 12877,
+  "clusters": 1058,
+  "med_treat": 0.1001,
+  "med_control": 0.2012,
+  "med_diff": -0.1011,
+  "boot_CI": [
+   -0.1203,
+   -0.0825
+  ],
+  "p": 2.51e-85,
+  "CONFIRMED": true
+ },
+ "APOGEE": {
+  "status": "ok",
+  "stars": 198007,
+  "treat": 4461,
+  "controls": 42952,
+  "clusters": 1605,
+  "med_treat": 0.0844,
+  "med_control": 0.1878,
+  "med_diff": -0.1034,
+  "boot_CI": [
+   -0.1186,
+   -0.0883
+  ],
+  "p": 0.0,
+  "CONFIRMED": true
+ }
+}

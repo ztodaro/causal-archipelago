@@ -1,0 +1,4 @@
+VERDICT: NOT-NOVEL
+CONFIDENCE: 90
+PRIOR-ART: Brunn’s concavity theorem for volumes of parallel sections of a convex body, derived from the Brunn–Minkowski inequality; the classical difference-body proof of the Euclidean isodiametric inequality.
+REASONING: The stated optimization mechanism is classical. For a convex family of feasible sets satisfying D(−z)=−D(z), convexity gives (D(z)+D(−z))/2 ⊆ D(0). Brunn–Minkowski then implies vol D(z) ≤ vol D(0). Equivalently, the proposed difference-body containment followed by a volume inequality follows the standard symmetrization argument used in the isodiametric inequality. These published principles anticipate the central mechanism, although establishing their hypotheses for this cosmological reporting model could be a new application and a substantive result. The opposite-moving collectors’ union fraction may also be a new model-specific calculation; I do not recognize an exact published counterpart for it.

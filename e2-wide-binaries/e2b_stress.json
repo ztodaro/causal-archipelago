@@ -1,0 +1,267 @@
+{
+ "grid_cells": 36,
+ "anchor_gap": 0.18,
+ "worst": {
+  "freq": 0.5,
+  "thr_scale": "none",
+  "periods": "raghavan",
+  "bias": 0.3261,
+  "sd": 0.0676
+ },
+ "max_abs_bias": 0.3261,
+ "envelope_ok": false,
+ "cells": [
+  {
+   "freq": 0.2,
+   "thr_scale": 0.5,
+   "periods": "raghavan",
+   "bias": -0.0064,
+   "sd": 0.0327
+  },
+  {
+   "freq": 0.2,
+   "thr_scale": 0.5,
+   "periods": "wide",
+   "bias": -0.0095,
+   "sd": 0.0283
+  },
+  {
+   "freq": 0.2,
+   "thr_scale": 0.5,
+   "periods": "loguniform",
+   "bias": -0.0021,
+   "sd": 0.0401
+  },
+  {
+   "freq": 0.2,
+   "thr_scale": 1.0,
+   "periods": "raghavan",
+   "bias": -0.0259,
+   "sd": 0.0285
+  },
+  {
+   "freq": 0.2,
+   "thr_scale": 1.0,
+   "periods": "wide",
+   "bias": 0.0197,
+   "sd": 0.0367
+  },
+  {
+   "freq": 0.2,
+   "thr_scale": 1.0,
+   "periods": "loguniform",
+   "bias": 0.0051,
+   "sd": 0.0299
+  },
+  {
+   "freq": 0.2,
+   "thr_scale": 2.0,
+   "periods": "raghavan",
+   "bias": -0.0032,
+   "sd": 0.027
+  },
+  {
+   "freq": 0.2,
+   "thr_scale": 2.0,
+   "periods": "wide",
+   "bias": 0.0054,
+   "sd": 0.0257
+  },
+  {
+   "freq": 0.2,
+   "thr_scale": 2.0,
+   "periods": "loguniform",
+   "bias": 0.0053,
+   "sd": 0.0346
+  },
+  {
+   "freq": 0.2,
+   "thr_scale": "none",
+   "periods": "raghavan",
+   "bias": 0.0921,
+   "sd": 0.0234
+  },
+  {
+   "freq": 0.2,
+   "thr_scale": "none",
+   "periods": "wide",
+   "bias": 0.0937,
+   "sd": 0.0444
+  },
+  {
+   "freq": 0.2,
+   "thr_scale": "none",
+   "periods": "loguniform",
+   "bias": 0.0945,
+   "sd": 0.0306
+  },
+  {
+   "freq": 0.3,
+   "thr_scale": 0.5,
+   "periods": "raghavan",
+   "bias": -0.0091,
+   "sd": 0.0328
+  },
+  {
+   "freq": 0.3,
+   "thr_scale": 0.5,
+   "periods": "wide",
+   "bias": 0.0164,
+   "sd": 0.0344
+  },
+  {
+   "freq": 0.3,
+   "thr_scale": 0.5,
+   "periods": "loguniform",
+   "bias": 0.0003,
+   "sd": 0.0299
+  },
+  {
+   "freq": 0.3,
+   "thr_scale": 1.0,
+   "periods": "raghavan",
+   "bias": 0.0007,
+   "sd": 0.0398
+  },
+  {
+   "freq": 0.3,
+   "thr_scale": 1.0,
+   "periods": "wide",
+   "bias": 0.0105,
+   "sd": 0.0278
+  },
+  {
+   "freq": 0.3,
+   "thr_scale": 1.0,
+   "periods": "loguniform",
+   "bias": -0.0075,
+   "sd": 0.0253
+  },
+  {
+   "freq": 0.3,
+   "thr_scale": 2.0,
+   "periods": "raghavan",
+   "bias": 0.0149,
+   "sd": 0.032
+  },
+  {
+   "freq": 0.3,
+   "thr_scale": 2.0,
+   "periods": "wide",
+   "bias": -0.0045,
+   "sd": 0.0493
+  },
+  {
+   "freq": 0.3,
+   "thr_scale": 2.0,
+   "periods": "loguniform",
+   "bias": 0.0029,
+   "sd": 0.0449
+  },
+  {
+   "freq": 0.3,
+   "thr_scale": "none",
+   "periods": "raghavan",
+   "bias": 0.1672,
+   "sd": 0.045
+  },
+  {
+   "freq": 0.3,
+   "thr_scale": "none",
+   "periods": "wide",
+   "bias": 0.1168,
+   "sd": 0.0401
+  },
+  {
+   "freq": 0.3,
+   "thr_scale": "none",
+   "periods": "loguniform",
+   "bias": 0.1327,
+   "sd": 0.0302
+  },
+  {
+   "freq": 0.5,
+   "thr_scale": 0.5,
+   "periods": "raghavan",
+   "bias": 0.008,
+   "sd": 0.0238
+  },
+  {
+   "freq": 0.5,
+   "thr_scale": 0.5,
+   "periods": "wide",
+   "bias": 0.019,
+   "sd": 0.051
+  },
+  {
+   "freq": 0.5,
+   "thr_scale": 0.5,
+   "periods": "loguniform",
+   "bias": 0.0051,
+   "sd": 0.0293
+  },
+  {
+   "freq": 0.5,
+   "thr_scale": 1.0,
+   "periods": "raghavan",
+   "bias": 0.0002,
+   "sd": 0.033
+  },
+  {
+   "freq": 0.5,
+   "thr_scale": 1.0,
+   "periods": "wide",
+   "bias": -0.0011,
+   "sd": 0.0377
+  },
+  {
+   "freq": 0.5,
+   "thr_scale": 1.0,
+   "periods": "loguniform",
+   "bias": 0.0038,
+   "sd": 0.0315
+  },
+  {
+   "freq": 0.5,
+   "thr_scale": 2.0,
+   "periods": "raghavan",
+   "bias": -0.0007,
+   "sd": 0.0411
+  },
+  {
+   "freq": 0.5,
+   "thr_scale": 2.0,
+   "periods": "wide",
+   "bias": 0.0076,
+   "sd": 0.0358
+  },
+  {
+   "freq": 0.5,
+   "thr_scale": 2.0,
+   "periods": "loguniform",
+   "bias": 0.0012,
+   "sd": 0.0288
+  },
+  {
+   "freq": 0.5,
+   "thr_scale": "none",
+   "periods": "raghavan",
+   "bias": 0.3261,
+   "sd": 0.0676
+  },
+  {
+   "freq": 0.5,
+   "thr_scale": "none",
+   "periods": "wide",
+   "bias": 0.2524,
+   "sd": 0.0602
+  },
+  {
+   "freq": 0.5,
+   "thr_scale": "none",
+   "periods": "loguniform",
+   "bias": 0.2581,
+   "sd": 0.0233
+  }
+ ]
+}

@@ -1,0 +1,129 @@
+GALAH clean stars 316016
+C4 replay gate: PASS 874 7197 0.1042073 0.158905755
+pairs with two valid clocks: 473 of 874
+pairs with posterior mass>0.5 in decision bins: [242, 231] | four-bin: [115, 22, 49, 100]
+oracle1: {'observed_median': 0.1138, 'simulated_median': 0.1095, 'f_const': 0.2704, 'sigma_const': 0.078, 'pass_': True}
+oracle2: {'n_realisations': 200, 'coverage_exp': [1.0, 1.0], 'coverage_const': [0.99, 1.0], 'pass_': True}
+2-bin fit: [0.5573304  0.01742741 0.08280355] 407.91820989844746 | const: [0.27043565 0.07799972] 399.69780051402824 | param: [0.57920814 5.54679669 0.0803156 ] 407.6698000384913 | 4-bin: [0.52323375 0.53814716 0.08773653 0.         0.0817833 ] 407.20207530507594
+{
+ "script_sha256": "3c1981490955ab6206b3f130e7b6f9910affe023070f2b0142497208d5e0da4d",
+ "spec": "E10B-SPEC.md",
+ "n_pairs_C4": 874,
+ "n_pairs_with_clocks": 473,
+ "decision_bins": [
+  [
+   0,
+   4.5
+  ],
+  [
+   4.5,
+   14
+  ]
+ ],
+ "descriptive_bins": [
+  [
+   0,
+   2
+  ],
+  [
+   2,
+   4.5
+  ],
+  [
+   4.5,
+   8
+  ],
+  [
+   8,
+   14
+  ]
+ ],
+ "pairs_mass_gt_half_decision": [
+  242,
+  231
+ ],
+ "pairs_mass_gt_half_descriptive": [
+  115,
+  22,
+  49,
+  100
+ ],
+ "median_age": 4.375,
+ "median_age_err": 2.727,
+ "oracle1": {
+  "observed_median": 0.1138,
+  "simulated_median": 0.1095,
+  "f_const": 0.2704,
+  "sigma_const": 0.078,
+  "pass_": true
+ },
+ "oracle2": {
+  "n_realisations": 200,
+  "coverage_exp": [
+   1.0,
+   1.0
+  ],
+  "coverage_const": [
+   0.99,
+   1.0
+  ],
+  "pass_": true
+ },
+ "status": "ok",
+ "f_young": 0.5573,
+ "f_young_CI": [
+  0.0,
+  1.0
+ ],
+ "f_old": 0.0174,
+ "f_old_CI": [
+  0.0,
+  0.3172
+ ],
+ "sigma_conatal": 0.0828,
+ "sigma_conatal_CI": [
+  0.0412,
+  0.5
+ ],
+ "ratio_old_young": 0.0313,
+ "ratio_CI": [
+  0.0,
+  160562.9642
+ ],
+ "verdict": "UNRESOLVED",
+ "loglike_2bin": 407.918,
+ "loglike_const": 399.698,
+ "loglike_param": 407.67,
+ "param_f0": 0.5792,
+ "param_tau_gyr": 5.547,
+ "param_tau_CI": [
+  1.353,
+  21.642
+ ],
+ "f_4bin": [
+  0.5232,
+  0.5381,
+  0.0877,
+  0.0
+ ],
+ "f_4bin_CI": [
+  [
+   0.0,
+   1.0
+  ],
+  [
+   0.0,
+   1.0
+  ],
+  [
+   0.0,
+   0.7383
+  ],
+  [
+   0.0,
+   0.6797
+  ]
+ ],
+ "median_d_treat": 0.1138
+}
+DONE

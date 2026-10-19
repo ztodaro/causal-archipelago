@@ -1,0 +1,134 @@
+{
+ "GALAH": {
+  "C0_on_C4subset": {
+   "treat": 874,
+   "controls": 8740,
+   "med_treat": 0.1042,
+   "med_control": 0.2041,
+   "med_diff": -0.0998,
+   "boot_CI": [
+    -0.1252,
+    -0.0779
+   ]
+  },
+  "C1_on_C4subset": {
+   "treat": 874,
+   "controls": 8737,
+   "med_treat": 0.1042,
+   "med_control": 0.2022,
+   "med_diff": -0.098,
+   "boot_CI": [
+    -0.1236,
+    -0.0752
+   ]
+  },
+  "C2_on_C4subset": {
+   "treat": 874,
+   "controls": 8735,
+   "med_treat": 0.1042,
+   "med_control": 0.1817,
+   "med_diff": -0.0775,
+   "boot_CI": [
+    -0.1037,
+    -0.0578
+   ]
+  },
+  "C3_on_C4subset": {
+   "treat": 874,
+   "controls": 8668,
+   "med_treat": 0.1042,
+   "med_control": 0.1756,
+   "med_diff": -0.0714,
+   "boot_CI": [
+    -0.097,
+    -0.0479
+   ]
+  },
+  "C4": {
+   "treat": 874,
+   "controls": 7197,
+   "med_treat": 0.1042,
+   "med_control": 0.1589,
+   "med_diff": -0.0547,
+   "boot_CI": [
+    -0.0803,
+    -0.0308
+   ]
+  },
+  "treat_median_all": 0.1001,
+  "treat_median_C4subset": 0.1042,
+  "treat_median_rest": 0.0981,
+  "subset_median_Jz": 1.903,
+  "rest_median_Jz": 1.865,
+  "subset_median_Jr": 8.232,
+  "rest_median_Jr": 11.817,
+  "subset_median_dist_pc": 400.5,
+  "rest_median_dist_pc": 324.9
+ },
+ "APOGEE": {
+  "C0_on_C4subset": {
+   "treat": 919,
+   "controls": 9190,
+   "med_treat": 0.1047,
+   "med_control": 0.1855,
+   "med_diff": -0.0809,
+   "boot_CI": [
+    -0.0962,
+    -0.0658
+   ]
+  },
+  "C1_on_C4subset": {
+   "treat": 919,
+   "controls": 9147,
+   "med_treat": 0.1047,
+   "med_control": 0.1849,
+   "med_diff": -0.0802,
+   "boot_CI": [
+    -0.0958,
+    -0.0644
+   ]
+  },
+  "C2_on_C4subset": {
+   "treat": 919,
+   "controls": 9158,
+   "med_treat": 0.1047,
+   "med_control": 0.1668,
+   "med_diff": -0.0621,
+   "boot_CI": [
+    -0.0786,
+    -0.0474
+   ]
+  },
+  "C3_on_C4subset": {
+   "treat": 919,
+   "controls": 8987,
+   "med_treat": 0.1047,
+   "med_control": 0.1497,
+   "med_diff": -0.0451,
+   "boot_CI": [
+    -0.0611,
+    -0.0307
+   ]
+  },
+  "C4": {
+   "treat": 919,
+   "controls": 6150,
+   "med_treat": 0.1047,
+   "med_control": 0.1373,
+   "med_diff": -0.0326,
+   "boot_CI": [
+    -0.0484,
+    -0.0162
+   ]
+  },
+  "treat_median_all": 0.085,
+  "treat_median_C4subset": 0.1047,
+  "treat_median_rest": 0.0801,
+  "subset_median_Jz": 1.069,
+  "rest_median_Jz": 2.03,
+  "subset_median_Jr": 5.563,
+  "rest_median_Jr": 11.072,
+  "subset_median_dist_pc": 225.5,
+  "rest_median_dist_pc": 404.9
+ }
+}

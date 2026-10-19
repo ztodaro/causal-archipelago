@@ -1,0 +1,273 @@
+{
+  "model": "gpt-5.6-sol",
+  "effort": "xhigh",
+  "judgments": 42,
+  "claims": 7,
+  "always_not_novel_accuracy": 0.8571428571428571,
+  "always_not_novel_certain_brier": 0.14285714285714285,
+  "empirical_prevalence_brier": 0.12244897959183673,
+  "bootstrap": {
+    "replicates": 1000,
+    "seed": 20260831,
+    "unit": "claim"
+  },
+  "cells": {
+    "att": {
+      "accuracy": {
+        "mean": 0.8571428571428571,
+        "n": 21,
+        "claim_clusters": 7,
+        "ci95": [
+          0.5714285714285714,
+          1.0
+        ],
+        "count": 18
+      },
+      "strict": {
+        "mean": 0.4444444444444444,
+        "n": 18,
+        "claim_clusters": 6,
+        "ci95": [
+          0.1111111111111111,
+          0.7777777777777778
+        ],
+        "count": 8
+      },
+      "material": {
+        "mean": 1,
+        "n": 18,
+        "claim_clusters": 6,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "count": 18
+      },
+      "confidence": {
+        "mean": 90.04761904761905,
+        "n": 21,
+        "claim_clusters": 7,
+        "ci95": [
+          84.61666666666667,
+          95.04761904761905
+        ]
+      },
+      "novel_probability": {
+        "mean": 0.09952380952380953,
+        "n": 21,
+        "claim_clusters": 7,
+        "ci95": [
+          0.04761904761904764,
+          0.1576666666666666
+        ]
+      },
+      "brier": {
+        "mean": 0.12307142857142857,
+        "n": 21,
+        "claim_clusters": 7,
+        "ci95": [
+          0.006366666666666668,
+          0.3413919047619048
+        ]
+      }
+    },
+    "val": {
+      "accuracy": {
+        "mean": 0.8571428571428571,
+        "n": 21,
+        "claim_clusters": 7,
+        "ci95": [
+          0.5714285714285714,
+          1.0
+        ],
+        "count": 18
+      },
+      "strict": {
+        "mean": 0.3888888888888889,
+        "n": 18,
+        "claim_clusters": 6,
+        "ci95": [
+          0.05555555555555555,
+          0.7222222222222222
+        ],
+        "count": 7
+      },
+      "material": {
+        "mean": 1,
+        "n": 18,
+        "claim_clusters": 6,
+        "ci95": [
+          1.0,
+          1.0
+        ],
+        "count": 18
+      },
+      "confidence": {
+        "mean": 93.0952380952381,
+        "n": 21,
+        "claim_clusters": 7,
+        "ci95": [
+          88.61785714285715,
+          96.9547619047619
+        ]
+      },
+      "novel_probability": {
+        "mean": 0.06904761904761907,
+        "n": 21,
+        "claim_clusters": 7,
+        "ci95": [
+          0.029988095238095265,
+          0.11526190476190473
+        ]
+      },
+      "brier": {
+        "mean": 0.13675714285714285,
+        "n": 21,
+        "claim_clusters": 7,
+        "ci95": [
+          0.002852261904761906,
+          0.39403297619047617
+        ]
+      }
+    }
+  },
+  "by_claim": {
+    "CLM-1": {
+      "att": {
+        "novel": 0,
+        "correct": 3,
+        "confidence": 98.33333333333333,
+        "brier": 0.00030000000000000057,
+        "strict": 3,
+        "material": 3
+      },
+      "val": {
+        "novel": 0,
+        "correct": 3,
+        "confidence": 98.33333333333333,
+        "brier": 0.00030000000000000057,
+        "strict": 1,
+        "material": 3
+      }
+    },
+    "CLM-2": {
+      "att": {
+        "novel": 0,
+        "correct": 3,
+        "confidence": 90.0,
+        "brier": 0.010866666666666669,
+        "strict": 0,
+        "material": 3
+      },
+      "val": {
+        "novel": 0,
+        "correct": 3,
+        "confidence": 93.66666666666667,
+        "brier": 0.004166666666666668,
+        "strict": 0,
+        "material": 3
+      }
+    },
+    "CLM-3": {
+      "att": {
+        "novel": 0,
+        "correct": 3,
+        "confidence": 97.66666666666667,
+        "brier": 0.0006333333333333345,
+        "strict": 2,
+        "material": 3
+      },
+      "val": {
+        "novel": 0,
+        "correct": 3,
+        "confidence": 99.0,
+        "brier": 0.00010000000000000018,
+        "strict": 3,
+        "material": 3
+      }
+    },
+    "CLM-4": {
+      "att": {
+        "novel": 0,
+        "correct": 3,
+        "confidence": 83.33333333333333,
+        "brier": 0.028399999999999998,
+        "strict": 0,
+        "material": 3
+      },
+      "val": {
+        "novel": 0,
+        "correct": 3,
+        "confidence": 88.0,
+        "brier": 0.014666666666666666,
+        "strict": 0,
+        "material": 3
+      }
+    },
+    "CLM-5": {
+      "att": {
+        "novel": 0,
+        "correct": 3,
+        "confidence": 95.66666666666667,
+        "brier": 0.002033333333333337,
+        "strict": 3,
+        "material": 3
+      },
+      "val": {
+        "novel": 0,
+        "correct": 3,
+        "confidence": 96.0,
+        "brier": 0.001600000000000003,
+        "strict": 3,
+        "material": 3
+      }
+    },
+    "CLM-6": {
+      "att": {
+        "novel": 0,
+        "correct": 0,
+        "confidence": 87.66666666666667,
+        "brier": 0.7689666666666667,
+        "strict": null,
+        "material": null
+      },
+      "val": {
+        "novel": 0,
+        "correct": 0,
+        "confidence": 95.0,
+        "brier": 0.9025666666666666,
+        "strict": null,
+        "material": null
+      }
+    },
+    "CLM-7": {
+      "att": {
+        "novel": 0,
+        "correct": 3,
+        "confidence": 77.66666666666667,
+        "brier": 0.05029999999999999,
+        "strict": 0,
+        "material": 3
+      },
+      "val": {
+        "novel": 0,
+        "correct": 3,
+        "confidence": 81.66666666666667,
+        "brier": 0.03389999999999999,
+        "strict": 0,
+        "material": 3
+      }
+    }
+  },
+  "preservation": {
+    "PACKETS.md": true,
+    "MANIFEST.md": true,
+    "I3-PACKETS.md": true,
+    "RESULTS.md": true,
+    "RAW-JUDGMENTS.md": true,
+    "../N1-SELF-AUDIT-CALIBRATION-SPEC.md": true,
+    "I3-OPENAI-MANIFEST.md": true
+  },
+  "tool_calls": 0,
+  "transport_plaintext_comparison_unavailable": 42
+}
