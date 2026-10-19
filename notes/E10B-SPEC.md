@@ -1,7 +1,8 @@
 # E10b — age-resolved conatal fraction of comoving pairs by mixture likelihood (frozen before execution)
 
 Dated 2026-09-01; run only if E1c reports SURVIVES or SHRINKS in the
-project verdict. Supersedes nothing: E10's frozen verdict
+project verdict. The mixture-likelihood design and its oracle validation
+adapt Boufourou (arXiv:2608.24556). Supersedes nothing: E10's frozen verdict
 and its honest reading stand as history.
 
 ## Question and published target

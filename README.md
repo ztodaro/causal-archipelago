@@ -51,7 +51,7 @@ Files covered by a stamp are published exactly as stamped, with three exceptions
 - `notes/E10B-SPEC.md`
 - `notes/dr4-freeze/B2-B4-SPEC.md`
 
-These three no longer match their stamped hashes, and `verify/check.py` lists them. The scripts that carry out those methods and the results they produced are published as stamped, and they still match.
+These three no longer match their stamped hashes, and `verify/check.py` lists them. The scripts that carry out those methods and the results they produced are published as stamped, and they still match. One removed link pointed to the only note crediting the source of E10b's method, so `notes/E10B-SPEC.md` now credits Boufourou (arXiv:2608.24556) directly.
 
 Fourteen unstamped documents were edited the same way. No number, method or finding changed. The edited files are:
 
