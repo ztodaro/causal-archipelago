@@ -1,0 +1,24 @@
+{
+ "review_case": {
+  "theta_rad": 0.001,
+  "systemic_rv_kms": 30.0,
+  "true_relative_velocity_kms": 0.0,
+  "observed_ra_difference_kms": -0.02999999500000025,
+  "stamped_function_kms": -0.05999999500000025,
+  "fixed_first_order_kms": 4.99999974756804e-09,
+  "exact_method_kms": 0.0
+ },
+ "all_sky": {
+  "pairs": 20000,
+  "theta_rad_range": [
+   1.0000800781222566e-05,
+   0.004998378245450583
+  ],
+  "exact_method_max_residual_over_theta2_v": 0.4999404151123711,
+  "fixed_first_order_max_residual_over_theta2_v": 0.49993807222342634,
+  "stamped_function_median_error_over_2_vr_theta": 0.9999999394235408,
+  "basis_turn_median_over_theta_v": 0.22920307676839854,
+  "exact_method_max_residual_kms_theta_le_1e-3": 5.286902914482301e-05
+ },
+ "passes": true
+}

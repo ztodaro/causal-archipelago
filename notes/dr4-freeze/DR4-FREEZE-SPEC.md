@@ -179,3 +179,9 @@ from them before the tag.
   retrieval hand-off is filed in B2-B4-SPEC.md. Both pre-tag holes
   named in Amendment 2(d) are closed. Remaining before the tag: the owner's tag /
   release / OTS on MANIFEST.sha256.
+
+- 2026-10-19 (Amendment 4): the B4 perspective correction had the wrong
+  sign, and B1, B2 and B3 carry design caveats. An independent review found
+  them on 4 September 2026. They are recorded before DR4 in
+  AMENDMENT-4-2026-10-19.md, with the fixed code in e2b_perspective_v2.py.
+  The stamped files are unchanged.

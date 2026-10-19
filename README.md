@@ -8,14 +8,14 @@ This repository holds the locked studies discussed in the editorial "Felt novelt
 | --- | --- | --- | --- |
 | `e1-chemical-genealogy/` | E1: do comoving stars share their chemistry? | `E1-SPEC.md` | `E1-RESULTS.md` |
 | `e1-chemical-genealogy/` | E1b: the same test on kiloparsec-scale pairs in GALAH and APOGEE | `E1B-SPEC.md` | `E1B-RESULTS.md` |
-| `e1-chemical-genealogy/` | E1c: E1b repeated against stars on the same orbit | `E1C-SPEC.md` | `E1C-RESULTS.md` |
+| `e1-chemical-genealogy/` | E1c: E1b repeated against stars on the same orbit | `E1C-SPEC.md` | `E1C-RESULTS.md`, `E1C-CORRECTION-2026-10-19.md` |
 | `e2-wide-binaries/` | E2: a sealed test of gravity at low acceleration in wide binary stars | `E2-SPEC.md` | `E2-UNSEALED-RESULTS.md` |
 | `e2-wide-binaries/` | E2b: the powered rerun of E2 | `E2B-SPEC.md` | `E2B-UNSEALED-RESULTS.md`, `E2B-STRESS-MEMO.md` |
 | `solar-siblings/` | E8: candidate siblings of the Sun | `E8-SPEC.md` | `E8-RESULTS.md` |
-| `notes/` | E10 and E10b: does shared chemistry fade with age? | `E10-SPEC.md`, `E10B-SPEC.md` | `E10-RESULTS.md`, `E10B-RESULTS.md` |
+| `notes/` | E10 and E10b: does shared chemistry fade with age? | `E10-SPEC.md`, `E10B-SPEC.md` | `E10-RESULTS.md`, `E10B-RESULTS.md`, `E10B-CORRECTION-2026-10-19.md` |
 | `notes/e10c/` | E10c: an APOGEE replication of E10b, found infeasible | `E10C-SPEC.md` | `E10C-FEASIBILITY.md` |
 | `notes/novelty-search/n1-retrospective/` | N1: can AI models tell whether an idea is new? | `../N1-SELF-AUDIT-CALIBRATION-SPEC.md`, `MANIFEST.md` | `RESULTS.md`, `I3-OPENAI-RESULTS.md`, `CROSS-LAB-SYNTHESIS.md` |
-| `notes/dr4-freeze/` | Predictions frozen before Gaia DR4 (2 December 2026) | `DR4-FREEZE-SPEC.md`, `B2-B4-SPEC.md` | to be run on DR4 |
+| `notes/dr4-freeze/` | Predictions frozen before Gaia DR4 (2 December 2026) | `DR4-FREEZE-SPEC.md`, `B2-B4-SPEC.md`, `AMENDMENT-4-2026-10-19.md` | to be run on DR4 |
 
 Each plan was committed before the analysis it describes was run. Results files record every outcome, including nulls and corrections.
 
@@ -64,3 +64,9 @@ Fourteen unstamped documents were edited the same way. No number, method or find
 ## Corrections
 
 The record only grows. A correction is a new dated entry beside the original, and the original stays as it was.
+
+Corrections so far, all from an independent review of 4 September 2026:
+
+- 19 October 2026, DR4 freeze: [`notes/dr4-freeze/AMENDMENT-4-2026-10-19.md`](notes/dr4-freeze/AMENDMENT-4-2026-10-19.md) fixes the sign of the perspective correction, with new code in `e2b_perspective_v2.py`. It also records design caveats on B1, B2 and B3.
+- 19 October 2026, E10b: [`notes/E10B-CORRECTION-2026-10-19.md`](notes/E10B-CORRECTION-2026-10-19.md) suspends the DECAY DETECTED verdict.
+- 19 October 2026, E1c: [`e1-chemical-genealogy/E1C-CORRECTION-2026-10-19.md`](e1-chemical-genealogy/E1C-CORRECTION-2026-10-19.md) records that the orbit-matched controls were looser than reported.
