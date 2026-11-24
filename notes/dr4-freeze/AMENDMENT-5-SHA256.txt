@@ -1,0 +1,6 @@
+3b5c979b0a8b07190a598fb5693ef40a3efd08ed7c24d7f4b70fc1404ebe0b54  notes/dr4-freeze/AMENDMENT-4-2026-10-19.md
+0447ab523696564d59399672deb5a9214ecc8dcc40d94efe29bca86c3c000443  notes/dr4-freeze/e2b_perspective_v2.py
+138443d1f192d8110742c99bca242e5e4571901e165945dbc4c841a3cf5ac7cd  notes/dr4-freeze/e2b_perspective_v2_check.json
+932142887902ae476c455dfa4e65bd8e31af13633305a6acf8b0ea856cab7da1  tests/test_perspective_sign_analytic.py
+6ee075784adf507a3a8530e719c3f1c25e31c04b0c3991e69ec4b8a03d6f1a96  notes/dr4-freeze/AMENDMENT-5-2026-11-24.md
+953b71abfcb5cbb455c51322a877a3ae1d40ba08091d2f45661abef071f8acea  notes/dr4-freeze/j1749-target.tsv

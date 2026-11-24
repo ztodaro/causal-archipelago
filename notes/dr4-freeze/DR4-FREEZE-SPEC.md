@@ -185,3 +185,9 @@ from them before the tag.
   them on 4 September 2026. They are recorded before DR4 in
   AMENDMENT-4-2026-10-19.md, with the fixed code in e2b_perspective_v2.py.
   The stamped files are unchanged.
+
+- 2026-11-24 (Amendment 5): Amendment 4 and an independent astropy
+  check of its fix are timestamped, J1749 gets a single-star closing rule
+  for DR4, and E10b is withdrawn from DR4 scoring. Recorded in
+  AMENDMENT-5-2026-11-24.md, with the target in j1749-target.tsv and the
+  hashes in AMENDMENT-5-SHA256.txt. The stamped files are unchanged.
